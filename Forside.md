@@ -1,5 +1,4 @@
 ---
-title: Forside
 tags: [ssb]
 ---
 
