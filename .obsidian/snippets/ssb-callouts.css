@@ -1,0 +1,11 @@
+/* Sandets Sang – farver til vaultens tre lag */
+
+.callout[data-callout="myte"] {
+  --callout-color: 196, 150, 60;
+  --callout-icon: lucide-feather;
+}
+
+.callout[data-callout="sandhed"] {
+  --callout-color: 178, 62, 62;
+  --callout-icon: lucide-eye;
+}
