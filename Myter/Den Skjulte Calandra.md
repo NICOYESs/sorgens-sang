@@ -24,6 +24,8 @@ Der findes flere indbyrdes modstridende opfattelser:
 
 Beskeder fra den skjulte Calandra skal ifølge troen være mærket med en grå calandrafjer. Flere Stormkrager har hævdet at have modtaget sådanne beskeder, men ingen af tilfældene er bekræftet.
 
+Troen får næring af, at ordenens egne Calandraer er ukendte for deres medlemmer. Når ingen ved, hvem der skriver de breve, der lægges i [[Grenene|grenene]], kan ingen heller sige med sikkerhed, at de alle kommer fra områdernes egne Calandraer.
+
 ## Forhold til de kendte kilder
 
 Der findes ingen sikre kilder, der bekræfter, at ordenen har haft en øverste Calandra efter 1465 EJ.

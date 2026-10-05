@@ -26,7 +26,7 @@ Når en opgave er godkendt, fordeles betalingen således:
 
 | Modtager | Andel | For |
 |---|---|---|
-| Ordenen | 10 % | Tilfalder områdets [[Calandraen\|Calandra]] og bruges til reder, frikøb og bestikkelse |
+| Ordenen | 10 % | Lægges af Vingen i en af områdets [[Grenene\|grene]] til [[Calandraen\|Calandraen]] og bruges til reder, frikøb og bestikkelse |
 | Vingen | 10 % | At bringe opgaven til en passende Stormkrage, holde bestilleren og Stormkragen adskilt og bevidne, at opgaven er fuldført |
 | Stormkragen og gruppen | 80 % | At udføre opgaven. Fordelingen inden for gruppen afgøres af Stormkragen |
 

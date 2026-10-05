@@ -24,7 +24,8 @@ Han advarer ordenen om razziaer, ransagninger og arrestationer og kan sørge for
 
 ## Forbindelser
 
-- [[Saffiya bint Harun]]: kender ham fra han var barn og optog ham i ordenen
+- [[Saffiya bint Harun]]: kender ham fra han var barn og pegede ham ud for ordenen
+- [[Zaki Ibn Murad]]: Al-Hazifs mand, der samarbejder med byvagten
 - [[Zahra bint Karim]]: han holder hende orienteret om byvagten
 
 > [!sandhed]- Spillederviden

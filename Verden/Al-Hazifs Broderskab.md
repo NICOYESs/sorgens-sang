@@ -20,3 +20,5 @@ For Sorgens Sang er spørgsmålet ikke kun historisk. Hvis ordenen en dag får s
 
 > [!sandhed]- Spillederviden
 > Om Al-Hazif faktisk havde noget med Nadims fald at gøre: [[Nadims fald#Al-Hazifs Broderskab]].
+>
+> I 36 EH regner Al-Hazif ordenen for knust. Kun én af deres folk i Cartheero, [[Zaki Ibn Murad]], tror noget andet.

@@ -27,7 +27,7 @@ Holdepunkter: [[Halima bint Nasr]]s karavaneseraj, [[Amira]]s oase og [[Barakats
 
 ## Kystvejen
 
-Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor Vingen [[Samira bint Aziz]] brugte sin fars krydderivarer som dække. I dag forbinder den Calandraen over Cartheero med Calandraen over kystbyerne og fører videre til de havne, hvor ordenens skippere lægger til.
+Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor Vingen [[Samira bint Aziz]] brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
 
 Holdepunkter: kystbyernes havne, hvor [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] tager last og unger om bord.
 

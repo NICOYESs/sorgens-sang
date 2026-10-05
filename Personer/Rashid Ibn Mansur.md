@@ -13,7 +13,7 @@ tags: [ssb/person, ssb/resume]
 | **Titel** | Stormkrage, regnes for Ådselkrage |
 | **Område** | Kystbyerne |
 | **Tro** | Kasmani |
-| **Titler gennem tiden** | Krage (ca. 22 EH), Stormkrage (27 EH). Krævet afsat af Saffiya flere gange, beskyttet af Yusuf |
+| **Titler gennem tiden** | Krage (ca. 22 EH), Stormkrage (27 EH). Krævet afsat af Sangen i Cartheero flere gange, beskyttet af Kystsangen |
 | **Kendetegn** | Tåren, fuglefoden båret åbent og fjerdækket brændemærke |
 
 ## Resumé
@@ -22,13 +22,14 @@ Rashid blev født som slave og tjente som livvagt for en slavehandler i en af ky
 
 Hans gruppe er den mest frygtede i kystbyerne. Den angriber slaveskibe i havn, og der er flere eksempler på, at slavehandlere og deres folk er blevet dræbt under angrebene. Internt regnes han for en Ådselkrage, og han er Sorgens Sangs tydeligste eksempel på en Stormkrage, der ser sig selv som dommer.
 
-Han har sin Calandras opbakning og kan derfor ikke afsættes af andre.
+Han har sin Calandras opbakning og kan derfor ikke afsættes af andre. Hvem Kystsangen er, ved han ikke.
 
 ## Forbindelser
 
-- [[Yusuf Ibn Hakim]]: hans Calandra og beskytter
+- [[Yusuf Ibn Hakim]]: hans Calandra og beskytter, uden at Rashid ved det. Han kender ham som en gammel tolder, han af og til køber oplysninger af
 - [[Leyla bint Qasim]]: hendes oplysninger fra toldhuset bruges i hans angreb
-- [[Saffiya bint Harun]]: kræver ham afsat
+- [[Saffiya bint Harun]]: kræver ham afsat som Sangen i Cartheero. Han ved ikke, hvem hun er
+- [[Jamil al-Hammami]]: Rashid tror, at han er Sangen i Cartheero
 - [[Idris]]: befriet af hans gruppe, nu styrmand og loyal over for ham
 - [[Marwan Ibn Talal]]: den tidligere slavehandler, han hellere så død
 - [[Harith Ibn Zayd]]: fører unger fra hans angreb over havet
@@ -37,3 +38,5 @@ Han har sin Calandras opbakning og kan derfor ikke afsættes af andre.
 
 > [!sandhed]- Spillederviden
 > Rashid mener, at ordenen var stærkere under én Calandra, og har talt om det med andre Stormkrager. Se [[De mange grene#Tråde til spil]].
+>
+> For at samle ordenen under én må han vide, hvem Sangene er. Han har sat sine Krager til at finde ud af det og er begyndt med Jamil.

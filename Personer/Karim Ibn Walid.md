@@ -25,6 +25,7 @@ Han blev udpeget til Vinge for to år siden og oplæres stadig af [[Mahmoud al-W
 ## Forbindelser
 
 - [[Mahmoud al-Warraq]]: hans læremester
-- [[Saffiya bint Harun]]: bærer hendes beskeder mod syd
+- [[Saffiya bint Harun]]: bærer Sangen i Cartheeros breve mod syd uden at vide, at de er hendes
+- [[Bilqis]]: lægger breve i Sydsangens grene
 - [[Tariq al-Jamal]] og [[Halima bint Nasr]]: modtagere af hans beskeder i Syden
 - [[Ayub den Blinde]]: har været sendt til ham med beskeder, uden at vide hvorfor

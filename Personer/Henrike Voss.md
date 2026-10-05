@@ -31,4 +31,6 @@ Hun er ikke født ind i troen og er en af de ældste blandt ordenens medlemmer o
 - [[Dalila bint Yasir]] og [[Harith Ibn Zayd]]: lægger unger i land ved hendes pakhus
 
 > [!sandhed]- Spillederviden
-> Henrike er den naturlige kandidat til den Calandra-titel over Kamirrhavet, som Baldrian afslog, men hun er ny i troen. Om det strider mod skikken, kan blive et spørgsmål blandt Calandraerne. Se [[De mange grene#Tråde til spil]].
+> - Omkring 35 EH valgte Calandraerne Henrike som Calandra over Kamirrhavet. [[Saffiya bint Harun|Sangen i Cartheero]] og [[Bilqis|Sydsangen]] stemte for. [[Yusuf Ibn Hakim|Kystsangen]] stemte imod, fordi hun er ny i troen.
+> - Brevet med den grå fjer blev lagt i en gren i hendes eget pakhus. Hun har fundet det og taget det til sig, men har hverken lagt fjeren tilbage eller brevet på sin plads.
+> - Hvorfor hun tøver, er ikke fastlagt. Se [[De mange grene#Kamirrhavet]].

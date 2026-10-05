@@ -27,4 +27,4 @@ Hun kendte templets kældre bedre end nogen anden og foreslog selv ordenen at br
 - [[Det Tavse Tempel]]: hendes rede
 - [[Rania]]: behandler sårede i kælderen
 - [[Qadir]]: holder hende orienteret om byvagten
-- [[Saffiya bint Harun]]: hendes Calandra
+- [[Saffiya bint Harun]]: hendes Calandra, uden at Zahra ved det

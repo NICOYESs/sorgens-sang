@@ -17,4 +17,6 @@ tags: [ssb/sandhed]
 | Hvorfor stoppede udrensningen? | Ebbede ud efter et par år. | Calandraen skjulte ordenen. | Signalet nåede ud, og Ahriman troede, at hovedet var taget. → [[Nadims fald#Udrensningen]] |
 | Hvorfor er der flere Calandraer? | Ordenen samlede sig i områder efter 1465 EJ. | (Taget for givet) | Nadims sidste besked: aldrig igen én fugl alene på grenen. → [[De mange grene#Nadims sidste besked]] |
 | Findes der én Calandra over de andre? | Uklart. Udenforstående tror ofte, at der kun er én. | Ja, den skjulte Calandra hører alt. | Nej. Calandraerne er ligestillede. → [[De mange grene#Hvordan Calandraerne styrer]] |
-| Blev titlen tilbudt Baldrian? | Ifølge overleveringerne, ja. Han afslog. | — | Ja, titlen som Calandra over området ved Kamirrhavet. → [[De mange grene#Tilbuddet til Baldrian]] |
+| Hvem er Calandraerne? | Ukendt. Ordenens egne kender dem kun som Sange efter deres område. | Ofte Stemmerne, fx Jamil i Cartheero, eller den skjulte Calandra. | Saffiya (Cartheero), Yusuf (kystbyerne) og Bilqis (Syden). Alle lever som almindelige folk i deres eget netværk. → [[De mange grene#Områderne]] |
+| Hvem er Calandra ved Kamirrhavet? | Ingen kendt. | — | Henrike Voss er udvalgt, men har ikke svaret. → [[De mange grene#Kamirrhavet]] |
+| Blev titlen tilbudt Baldrian? | Ifølge overleveringerne, ja. Han afslog. | — | Ja, i et brev med en grå fjer i en gren i Kaarn. Han ved ikke, at Saffiya var med til at tilbyde ham den. → [[De mange grene#Tilbuddet til Baldrian]] |

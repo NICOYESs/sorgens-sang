@@ -55,7 +55,9 @@ Dette gør broderskabet mere farligt end dets forgænger. Det er ikke blot et sk
 
 Under Sandets Sang fandtes der kun én Calandra. Efter Nadims fald blev det aldrig sådan igen. I årene efter udrensningen samlede de overlevende celler sig om hver deres område, og i hvert område blev en Calandra anerkendt. I overensstemmelse med Kasmani-troen var det som regel den ældste og mest erfarne, ikke den mest magtfulde.
 
-Hver Calandra hører stemmerne i sit eget område og afgør, hvornår ordenen dér skal handle. Calandraerne kender til hinanden og udveksler beskeder gennem Vingerne, men der er ingen Calandra over de andre. Ordningen har gjort ordenen væsentligt sværere at ramme, end Sandets Sang var.
+Hver Calandra hører stemmerne i sit eget område og afgør, hvornår ordenen dér skal handle. Der er ingen Calandra over de andre. Ordningen har gjort ordenen væsentligt sværere at ramme, end Sandets Sang var.
+
+Erfaringen fra Nadims fald gjorde samtidig Calandraerne usynlige. Ingen i ordenen må kunne udpege en Calandra, og Calandraerne kender ikke engang hinanden. De kendes kun som Sange efter deres område, og deres breve lægges og hentes i skjulesteder, der kaldes [[Grenene|grene]]. De fleste af ordenens medlemmer har aldrig mødt deres Calandra, eller de har mødt vedkommende uden at vide det.
 
 Det vides ikke med sikkerhed, hvor mange Calandraer der findes, eller hvordan områderne er afgrænset. Udenforstående, der overhovedet kender titlen, går ofte ud fra, at der stadig kun er én. Se også [[Calandraen]] og myten om [[Den Skjulte Calandra]].
 
@@ -81,7 +83,7 @@ I **28 EH** fik Baldrian både idéen og midlerne til at føre ordenen over Kami
 
 I **30 EH** blev **Den Mørke Storms Handelskompagni** grundlagt med hovedkontor i den narabonske by Kaarn. Kompagniet er ikke en del af ordenen, men Baldrian er en af dets medejere. Hans andel i kompagniet giver ham en grund til at rejse, adgang til handelsruterne mellem Emyr og Narabond og et dække, under hvilket han kan flytte ordenens beskeder, personer, penge og oplysninger over havet.
 
-Da ordenens forbindelser på den anden side af havet i årene efter 30 EH var vokset sig store nok til at blive et område for sig, skal Baldrian være blevet tilbudt titlen som Calandra over det. Han afslog og forblev Vinge. Hans grunde gengives forskelligt i ordenens overleveringer.
+Da ordenens forbindelser på den anden side af havet i årene efter 30 EH var vokset sig store nok til at blive et område for sig, skal Baldrian være blevet tilbudt titlen som Calandra over det i et brev med en grå fjer. Han afslog og forblev Vinge. Hans grunde gengives forskelligt i ordenens overleveringer.
 
 ## Udvidelsen til Tharkien
 

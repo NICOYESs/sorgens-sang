@@ -83,7 +83,7 @@ Byernes placering er omtrentlig. Kort: niraham.dk. Klik på nåle, ruter og pers
 Cartheero ^wgz7z54VfB4PbxntqB5I
 
 Saffiya bint Harun
-Calandra ^kDCSXqLoivDP4SpGmrtW
+Calandra, Sangen i Cartheero ^kDCSXqLoivDP4SpGmrtW
 
 Mahmoud al-Warraq
 Vinge, bogbinder ^jYtUtBrmgO6grn4yDcaz
@@ -115,93 +115,108 @@ Krage, handelshus ^3QxvEXHJX6nsBvBqJd0s
 Faris
 Spurv ^zUJ4zIKdztgacm06EMXQ
 
+Jamil al-Hammami
+Stemme, badehusejer ^AXg67Pax30iYtJTq3tlA
+
+Sami
+Spurv, vandsælger ^eaRyML8QjEXAJgfPEn5j
+
+Zaki Ibn Murad
+Al-Hazif, Fuglefængeren ^xXVTS2jUWfsOJTFDQ74q
+
 Qasim Ibn Dawud
-Spillederviden ^AXg67Pax30iYtJTq3tlA
+Spillederviden ^x8KUCERkj9Zhx9PkOZAE
 
 Samira bint Aziz
-Vinge, død 1466 EJ ^eaRyML8QjEXAJgfPEn5j
+Vinge, død 1466 EJ ^LB4pyyRyMX5oZCsSauqr
 
 Nadim Ibn Rashad al-Calandri
-Den første Calandra ^xXVTS2jUWfsOJTFDQ74q
+Den første Calandra ^IfIJFZymYWU7otMdRzDT
 
-Kystbyerne ^8rYWKvsrdNPTZ0Mv3MUa
+Kystbyerne ^7Fx3gxODYfjuMbwrHMbg
 
 Yusuf Ibn Hakim
-Calandra ^L60W4Ycs1jZ43Kjr2ZZJ
+Calandra, Kystsangen ^1cvmlyfbdcJx3TDF8265
 
 Rashid Ibn Mansur
-Stormkrage, Ådselkrage ^LWaYyDIfIZwXeozLH5q4
+Stormkrage, Ådselkrage ^Uolc8q8wd5J5b16dqYGT
 
 Marwan Ibn Talal
-Krage, tidl. slavehandler ^7Fx3gxODYfjuMbwrHMbg
+Krage, tidl. slavehandler ^xEykCpZj6R5aDT6mZck7
 
 Dalila bint Yasir
-Stormkrage, Morgenstjernen ^1cvmlyfbdcJx3TDF8265
+Stormkrage, Morgenstjernen ^EhOxjvoVdlTCJ4jC3jrA
 
 Idris
-Krage, styrmand ^Uolc8q8wd5J5b16dqYGT
+Krage, styrmand ^1shqWmxBqp7pgysA5kd1
 
 Nuri
-Spurv, skibsdreng ^xEykCpZj6R5aDT6mZck7
+Spurv, skibsdreng ^rKli1lHXoTlmMf1f4MUF
 
 Harith Ibn Zayd
-Krage, Sandsvalen ^EhOxjvoVdlTCJ4jC3jrA
+Krage, Sandsvalen ^vs1O38FfaA6WEi3QrplK
 
-Syden ^ObCZGvGiCaY18HslxBc6
+Syden ^NlkgtqJ09bbg7SVmqb1M
+
+Bilqis
+Calandra, Sydsangen ^ILo3ojQKDVzk80b8OySA
 
 Tariq al-Jamal
-Stormkrage ^niNQTOZmLtmaeSUHA1U6
+Stormkrage ^Hj9R7wp3BQOaxgHleuBm
 
 Halima bint Nasr
-Rugere, karavaneseraj ^kSxKM2awH7C9HehwTp01
+Rugere, karavaneseraj ^NgqhHaBp8cshtwPkhdM9
 
 Sulaiman Barakat
-Rugere, daddellund ^NlkgtqJ09bbg7SVmqb1M
+Rugere, daddellund ^NSKoPymJTxD5JtNEE0tb
 
 Jabir al-Sahrawi
-Krage, kamelfører ^ILo3ojQKDVzk80b8OySA
+Krage, kamelfører ^dXbkJeM3wCQdHy1CwVWg
 
 Musa Ibn Khalil
-Krage, karavanevagt ^Hj9R7wp3BQOaxgHleuBm
+Krage, karavanevagt ^YOTO6TiA3gaAXJLhFz9K
 
 Ibrahim Ibn Sa'id
-Daglejer, tidl. Krage ^NgqhHaBp8cshtwPkhdM9
+Daglejer, tidl. Krage ^aYV2FyCtlItZjBKyLof0
 
 Amira
-Spurv, brøndvogter ^NSKoPymJTxD5JtNEE0tb
+Spurv, brøndvogter ^H0HURByDwcMRwC8aReHo
 
 Ayub den Blinde
-Vismand ^dXbkJeM3wCQdHy1CwVWg
+Vismand ^xuxe0tGlhP5sSv07G4AO
 
-Vestgrænsen ^2Yr3NMhy2CSDsUwswzHJ
+Vestgrænsen ^KmAMhjkHWGgbgek8HF0D
 
 Nasir Ibn Fahd
-Stormkrage ^1M1p9unB569abdqK5Ft6
+Stormkrage ^mCNybdo4zLW9cCdNppoc
 
 Hassan Ibn Omar
-Rugere, pottemager ^xGzPJ7Kj4m9AFzCXN5Lv
+Rugere, pottemager ^tz4TFbY3pflkwyla4szJ
 
-Tharkien ^YatTSJa6tz1gLaQbmlFX
+Tharkien ^kxwnUzyO9Lnt8EGno2CR
 
 Aurelio Danza
-Stormkrage, Paest ^PaRXLujTpwrkcrOg258L
+Stormkrage, Paest ^bQTKjtayTfSlX2oumQ5g
 
 Bertolo Fenzi
-Krage, Dorenburg ^ua530DtAMq94F8epRyRT
+Krage, Dorenburg ^7rlbxRZQSw5AbQTSDp2z
 
 Sennet
-Krage, Sølvborg ^vI3yvzPe9hB06wJpymDs
+Krage, Sølvborg ^JtOO8lK1oKFTHq7BQRKw
 
 Cornelia Vasto
-Skipper, ikke medlem ^kxwnUzyO9Lnt8EGno2CR
+Skipper, ikke medlem ^ASVzVN1orHfw88BC7vSG
 
-Kaarn ^ZGWtmeTtfosi0Tzswz26
+Kaarn ^pTpaGSCi7PwSti4TjLKp
 
 Baldrian Barldesh
-Vinge, medejer af Den Mørke Storm ^lshr6MUoTRczcMkBmWtj
+Vinge, medejer af Den Mørke Storm ^cd5rtmhStC9hkuCDKxsk
 
 Ottilie Brandt
-Krage, regnskabsfører ^1WXPs5c42LMSdpRhcYun
+Krage, regnskabsfører ^w6fPsON7UPSqPpfiVbbX
+
+Henrike Voss
+Rugere, udvalgt Calandra ^uoxiJ6x11qpdcgKZO60T
 
 
 ## Embedded Files
@@ -238,7 +253,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1475216846,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": true,
    "fileId": "a4c123b1612dd272d1371c17149d439536b3216f",
@@ -273,7 +288,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1460814403,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -329,7 +344,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1222328496,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -373,7 +388,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1679116189,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -429,7 +444,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 991070208,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -489,7 +504,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 538981927,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -537,7 +552,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1692732590,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -581,7 +596,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 109525499,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -625,7 +640,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 368871839,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -669,7 +684,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1280285447,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "points": [
@@ -715,7 +730,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 2028255630,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -744,7 +759,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 2072980150,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Sydvejen",
@@ -785,7 +800,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 545625653,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -814,7 +829,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 441402618,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Kystvejen",
@@ -855,7 +870,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 652132316,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -884,7 +899,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 2072265938,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Vestvejen",
@@ -925,7 +940,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 870111104,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -954,7 +969,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1572745252,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Kamirrvejen",
@@ -995,7 +1010,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 276126872,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -1024,7 +1039,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1743532651,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Tværvejen",
@@ -1065,7 +1080,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 185567036,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -1094,7 +1109,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1161884711,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Havtrækket",
@@ -1133,7 +1148,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1492725227,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Det Tavse Tempel]]",
    "locked": false
   },
@@ -1164,7 +1179,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1258676655,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Det Tavse Tempel]]",
    "locked": false
   },
@@ -1193,7 +1208,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 4590954,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Det Tavse Tempel]]",
    "locked": false,
    "text": "Cartheero\nDet Tavse Tempel · Bogbinderiet",
@@ -1232,7 +1247,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 2122533125,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -1263,7 +1278,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 987587880,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -1292,7 +1307,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 14234933,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kystbyerne\nSlavemarkeder og havne",
@@ -1331,7 +1346,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 332738928,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Halima bint Nasr]]",
    "locked": false
   },
@@ -1362,7 +1377,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1249219059,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Halima bint Nasr]]",
    "locked": false
   },
@@ -1391,7 +1406,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1153874070,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Halima bint Nasr]]",
    "locked": false,
    "text": "Karavaneserajen",
@@ -1430,7 +1445,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1787484620,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Barakats Daddellund]]",
    "locked": false
   },
@@ -1461,7 +1476,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1087538183,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Barakats Daddellund]]",
    "locked": false
   },
@@ -1490,7 +1505,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1070841497,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Barakats Daddellund]]",
    "locked": false,
    "text": "Barakats Daddellund",
@@ -1529,7 +1544,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 733420649,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Amira]]",
    "locked": false
   },
@@ -1560,7 +1575,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 322855252,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Amira]]",
    "locked": false
   },
@@ -1589,7 +1604,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1371330427,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Amira]]",
    "locked": false,
    "text": "Amiras oase",
@@ -1628,7 +1643,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1914947211,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Ayub den Blinde]]",
    "locked": false
   },
@@ -1659,7 +1674,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1681570275,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Ayub den Blinde]]",
    "locked": false
   },
@@ -1688,7 +1703,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 365086747,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Ayub den Blinde]]",
    "locked": false,
    "text": "Nomadestammerne\nAyub den Blinde",
@@ -1727,7 +1742,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1358743079,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hassan Ibn Omar]]",
    "locked": false
   },
@@ -1758,7 +1773,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 348287787,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hassan Ibn Omar]]",
    "locked": false
   },
@@ -1787,7 +1802,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 881407129,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hassan Ibn Omar]]",
    "locked": false,
    "text": "Vestgrænsen\nHassans ovne",
@@ -1826,7 +1841,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1689303829,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Saltkælderen]]",
    "locked": false
   },
@@ -1857,7 +1872,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1605817894,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Saltkælderen]]",
    "locked": false
   },
@@ -1886,7 +1901,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1857355769,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Saltkælderen]]",
    "locked": false,
    "text": "Paest\nSaltkælderen",
@@ -1925,7 +1940,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 187198577,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -1956,7 +1971,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 460684065,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -1985,7 +2000,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 649893977,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Dorenburg\nDen Mørke Storm (34 EH)",
@@ -2024,7 +2039,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 570934977,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Sennet]]",
    "locked": false
   },
@@ -2055,7 +2070,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1091164375,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Sennet]]",
    "locked": false
   },
@@ -2084,7 +2099,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 431826497,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Sennet]]",
    "locked": false,
    "text": "Sølvborg",
@@ -2123,7 +2138,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 934779977,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2154,7 +2169,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1340870465,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2183,7 +2198,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1164652845,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kaarn\nDen Mørke Storm (30 EH)",
@@ -2222,7 +2237,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 558238811,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -2253,7 +2268,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 288178326,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false
   },
@@ -2282,7 +2297,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 370631740,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Vejruterne]]",
    "locked": false,
    "text": "Kamirrs bystater\nIngen reder",
@@ -2319,7 +2334,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 179154161,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Sandets Sang og Sorgens Sang – steder og ruter i 36 EH",
@@ -2358,7 +2373,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 505650869,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "points": [
@@ -2400,7 +2415,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 100396091,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Landeveje (Syd-, Kyst- og Vestvejen)",
@@ -2439,7 +2454,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1569090357,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "points": [
@@ -2481,7 +2496,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 584913213,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kamirrvejen (efter 30 EH)",
@@ -2520,7 +2535,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 281389956,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "points": [
@@ -2562,7 +2577,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1019621698,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Tværvejen (34 EH)",
@@ -2601,7 +2616,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1545239554,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "points": [
@@ -2643,7 +2658,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 627904643,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Havtrækket til søs",
@@ -2680,7 +2695,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 7692133,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2707,7 +2722,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 11233465,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Cartheero",
@@ -2744,7 +2759,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1046203623,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2771,7 +2786,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1905909940,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kystbyerne",
@@ -2808,7 +2823,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 53043243,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2835,7 +2850,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1289633371,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Syden",
@@ -2872,7 +2887,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 452181414,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2899,7 +2914,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1269665295,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Vestgrænsen",
@@ -2936,7 +2951,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 824363030,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -2963,7 +2978,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1877819864,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Tharkien",
@@ -3000,7 +3015,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1481178213,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -3027,7 +3042,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1648591715,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kaarn",
@@ -3064,7 +3079,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 569743465,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -3091,7 +3106,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 2044759943,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kamirr",
@@ -3128,7 +3143,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1233126694,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Byernes placering er omtrentlig. Kort: niraham.dk. Klik på nåle, ruter og personkort for at åbne noterne.",
@@ -3148,7 +3163,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "x": 2198,
    "y": 0,
    "width": 740,
-   "height": 808,
+   "height": 1016,
    "angle": 0,
    "strokeColor": "#b3261e",
    "backgroundColor": "#efe4c8",
@@ -3167,7 +3182,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1119161469,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -3194,7 +3209,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1402926237,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
@@ -3221,7 +3236,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1629103199,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Cartheero",
@@ -3265,7 +3280,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "kDCSXqLoivDP4SpGmrtW"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Saffiya bint Harun]]",
    "locked": false
   },
@@ -3292,12 +3307,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 669953547,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Saffiya bint Harun]]",
    "locked": false,
-   "text": "Saffiya bint Harun\nCalandra",
-   "rawText": "Saffiya bint Harun\nCalandra",
-   "originalText": "Saffiya bint Harun\nCalandra",
+   "text": "Saffiya bint Harun\nCalandra, Sangen i Cartheero",
+   "rawText": "Saffiya bint Harun\nCalandra, Sangen i Cartheero",
+   "originalText": "Saffiya bint Harun\nCalandra, Sangen i Cartheero",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -3336,7 +3351,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "jYtUtBrmgO6grn4yDcaz"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Mahmoud al-Warraq]]",
    "locked": false
   },
@@ -3363,7 +3378,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 955424818,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Mahmoud al-Warraq]]",
    "locked": false,
    "text": "Mahmoud al-Warraq\nVinge, bogbinder",
@@ -3407,7 +3422,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "QUP44XPSL2oRlPhDBuqO"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Karim Ibn Walid]]",
    "locked": false
   },
@@ -3434,7 +3449,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1802084104,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Karim Ibn Walid]]",
    "locked": false,
    "text": "Karim Ibn Walid\nVinge, rytter",
@@ -3478,7 +3493,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "Xay1F6gcqInkTY88mHwg"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Zahra bint Karim]]",
    "locked": false
   },
@@ -3505,7 +3520,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 880390641,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Zahra bint Karim]]",
    "locked": false,
    "text": "Zahra bint Karim\nRugere, Det Tavse Tempel",
@@ -3549,7 +3564,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "OdqryzdaeA6AOSRwLqgo"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Rania]]",
    "locked": false
   },
@@ -3576,7 +3591,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1720038585,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Rania]]",
    "locked": false,
    "text": "Rania\nKrage, benbrætter",
@@ -3620,7 +3635,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "wQO10Y0ADsWJPiX1EwY2"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Yasmin al-Khattat]]",
    "locked": false
   },
@@ -3647,7 +3662,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1148579412,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Yasmin al-Khattat]]",
    "locked": false,
    "text": "Yasmin al-Khattat\nKrage, kalligraf",
@@ -3691,7 +3706,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "Q5xj7t2ydf0K5uY8iH1w"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Qadir]]",
    "locked": false
   },
@@ -3718,7 +3733,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 49302208,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Qadir]]",
    "locked": false,
    "text": "Qadir\nKrage, byvagt",
@@ -3762,7 +3777,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "N5SMYfQ55JYO1tmFSnHf"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hamid]]",
    "locked": false
   },
@@ -3789,7 +3804,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 502427950,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hamid]]",
    "locked": false,
    "text": "Hamid\nKrage, paladset",
@@ -3833,7 +3848,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "1uDSKFQs1DxBA9RelOxO"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Leyla bint Qasim]]",
    "locked": false
   },
@@ -3860,7 +3875,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 88303547,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Leyla bint Qasim]]",
    "locked": false,
    "text": "Leyla bint Qasim\nKrage, toldhuset",
@@ -3904,7 +3919,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "3QxvEXHJX6nsBvBqJd0s"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Zainab bint Malik]]",
    "locked": false
   },
@@ -3931,7 +3946,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1525480124,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Zainab bint Malik]]",
    "locked": false,
    "text": "Zainab bint Malik\nKrage, handelshus",
@@ -3975,7 +3990,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "zUJ4zIKdztgacm06EMXQ"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Faris]]",
    "locked": false
   },
@@ -4002,7 +4017,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1615097591,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Faris]]",
    "locked": false,
    "text": "Faris\nSpurv",
@@ -4025,7 +4040,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "height": 84,
    "angle": 0,
    "strokeColor": "#b3261e",
-   "backgroundColor": "#ffd6d6",
+   "backgroundColor": "#fbf5e6",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -4046,8 +4061,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "AXg67Pax30iYtJTq3tlA"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Qasim Ibn Dawud]]",
+   "updated": 1791224262236,
+   "link": "[[Jamil al-Hammami]]",
    "locked": false
   },
   {
@@ -4073,12 +4088,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1367848685,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Qasim Ibn Dawud]]",
+   "updated": 1791224262236,
+   "link": "[[Jamil al-Hammami]]",
    "locked": false,
-   "text": "Qasim Ibn Dawud\nSpillederviden",
-   "rawText": "Qasim Ibn Dawud\nSpillederviden",
-   "originalText": "Qasim Ibn Dawud\nSpillederviden",
+   "text": "Jamil al-Hammami\nStemme, badehusejer",
+   "rawText": "Jamil al-Hammami\nStemme, badehusejer",
+   "originalText": "Jamil al-Hammami\nStemme, badehusejer",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4117,8 +4132,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "eaRyML8QjEXAJgfPEn5j"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Samira bint Aziz]]",
+   "updated": 1791224262236,
+   "link": "[[Sami]]",
    "locked": false
   },
   {
@@ -4144,12 +4159,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1833950201,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Samira bint Aziz]]",
+   "updated": 1791224262236,
+   "link": "[[Sami]]",
    "locked": false,
-   "text": "Samira bint Aziz\nVinge, død 1466 EJ",
-   "rawText": "Samira bint Aziz\nVinge, død 1466 EJ",
-   "originalText": "Samira bint Aziz\nVinge, død 1466 EJ",
+   "text": "Sami\nSpurv, vandsælger",
+   "rawText": "Sami\nSpurv, vandsælger",
+   "originalText": "Sami\nSpurv, vandsælger",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4188,8 +4203,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "xXVTS2jUWfsOJTFDQ74q"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Nadim Ibn Rashad al-Calandri]]",
+   "updated": 1791224262236,
+   "link": "[[Zaki Ibn Murad]]",
    "locked": false
   },
   {
@@ -4215,12 +4230,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 137304644,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Nadim Ibn Rashad al-Calandri]]",
+   "updated": 1791224262236,
+   "link": "[[Zaki Ibn Murad]]",
    "locked": false,
-   "text": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
-   "rawText": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
-   "originalText": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
+   "text": "Zaki Ibn Murad\nAl-Hazif, Fuglefængeren",
+   "rawText": "Zaki Ibn Murad\nAl-Hazif, Fuglefængeren",
+   "originalText": "Zaki Ibn Murad\nAl-Hazif, Fuglefængeren",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4232,8 +4247,221 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "ada4PR0NfyttUMk931FM",
    "type": "rectangle",
+   "x": 2228,
+   "y": 798,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#b3261e",
+   "backgroundColor": "#ffd6d6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 256748937,
+   "version": 1,
+   "versionNonce": 1358410089,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "x8KUCERkj9Zhx9PkOZAE"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Qasim Ibn Dawud]]",
+   "locked": false
+  },
+  {
+   "id": "x8KUCERkj9Zhx9PkOZAE",
+   "type": "text",
+   "x": 2238,
+   "y": 808,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1656729871,
+   "version": 1,
+   "versionNonce": 1944570206,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Qasim Ibn Dawud]]",
+   "locked": false,
+   "text": "Qasim Ibn Dawud\nSpillederviden",
+   "rawText": "Qasim Ibn Dawud\nSpillederviden",
+   "originalText": "Qasim Ibn Dawud\nSpillederviden",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "ada4PR0NfyttUMk931FM",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "8rYWKvsrdNPTZ0Mv3MUa",
+   "type": "rectangle",
+   "x": 2578,
+   "y": 798,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#b3261e",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 649057333,
+   "version": 1,
+   "versionNonce": 1325417206,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "LB4pyyRyMX5oZCsSauqr"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Samira bint Aziz]]",
+   "locked": false
+  },
+  {
+   "id": "LB4pyyRyMX5oZCsSauqr",
+   "type": "text",
+   "x": 2588,
+   "y": 808,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1814623769,
+   "version": 1,
+   "versionNonce": 675514351,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Samira bint Aziz]]",
+   "locked": false,
+   "text": "Samira bint Aziz\nVinge, død 1466 EJ",
+   "rawText": "Samira bint Aziz\nVinge, død 1466 EJ",
+   "originalText": "Samira bint Aziz\nVinge, død 1466 EJ",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "8rYWKvsrdNPTZ0Mv3MUa",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "L60W4Ycs1jZ43Kjr2ZZJ",
+   "type": "rectangle",
+   "x": 2228,
+   "y": 902,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#b3261e",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 2147380350,
+   "version": 1,
+   "versionNonce": 1489723359,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "IfIJFZymYWU7otMdRzDT"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Nadim Ibn Rashad al-Calandri]]",
+   "locked": false
+  },
+  {
+   "id": "IfIJFZymYWU7otMdRzDT",
+   "type": "text",
+   "x": 2238,
+   "y": 912,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 887280570,
+   "version": 1,
+   "versionNonce": 1094076851,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Nadim Ibn Rashad al-Calandri]]",
+   "locked": false,
+   "text": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
+   "rawText": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
+   "originalText": "Nadim Ibn Rashad al-Calandri\nDen første Calandra",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "L60W4Ycs1jZ43Kjr2ZZJ",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "LWaYyDIfIZwXeozLH5q4",
+   "type": "rectangle",
    "x": 2198,
-   "y": 928,
+   "y": 1136,
    "width": 740,
    "height": 496,
    "angle": 0,
@@ -4249,20 +4477,20 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 256748937,
+   "seed": 1378653572,
    "version": 1,
-   "versionNonce": 1358410089,
+   "versionNonce": 2046922253,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "x8KUCERkj9Zhx9PkOZAE",
+   "id": "GLmmnmflZSsxKKwzXH2j",
    "type": "ellipse",
    "x": 2228,
-   "y": 948,
+   "y": 1156,
    "width": 28,
    "height": 28,
    "angle": 0,
@@ -4276,235 +4504,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1656729871,
-   "version": 1,
-   "versionNonce": 1944570206,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": null,
-   "locked": false
-  },
-  {
-   "id": "8rYWKvsrdNPTZ0Mv3MUa",
-   "type": "text",
-   "x": 2268,
-   "y": 944,
-   "width": 179.20000000000002,
-   "height": 40.0,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 649057333,
-   "version": 1,
-   "versionNonce": 1325417206,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": null,
-   "locked": false,
-   "text": "Kystbyerne",
-   "rawText": "Kystbyerne",
-   "originalText": "Kystbyerne",
-   "fontSize": 32,
-   "fontFamily": 1,
-   "textAlign": "left",
-   "verticalAlign": "top",
-   "containerId": null,
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
-   "id": "LB4pyyRyMX5oZCsSauqr",
-   "type": "rectangle",
-   "x": 2228,
-   "y": 998,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#1f5fa8",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
-   "seed": 1814623769,
-   "version": 1,
-   "versionNonce": 675514351,
-   "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "L60W4Ycs1jZ43Kjr2ZZJ"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Yusuf Ibn Hakim]]",
-   "locked": false
-  },
-  {
-   "id": "L60W4Ycs1jZ43Kjr2ZZJ",
-   "type": "text",
-   "x": 2238,
-   "y": 1008,
-   "width": 310,
-   "height": 64,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 2147380350,
-   "version": 1,
-   "versionNonce": 1489723359,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Yusuf Ibn Hakim]]",
-   "locked": false,
-   "text": "Yusuf Ibn Hakim\nCalandra",
-   "rawText": "Yusuf Ibn Hakim\nCalandra",
-   "originalText": "Yusuf Ibn Hakim\nCalandra",
-   "fontSize": 22,
-   "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "LB4pyyRyMX5oZCsSauqr",
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
-   "id": "IfIJFZymYWU7otMdRzDT",
-   "type": "rectangle",
-   "x": 2578,
-   "y": 998,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#1f5fa8",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
-   "seed": 887280570,
-   "version": 1,
-   "versionNonce": 1094076851,
-   "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "LWaYyDIfIZwXeozLH5q4"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Rashid Ibn Mansur]]",
-   "locked": false
-  },
-  {
-   "id": "LWaYyDIfIZwXeozLH5q4",
-   "type": "text",
-   "x": 2588,
-   "y": 1008,
-   "width": 310,
-   "height": 64,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 1378653572,
-   "version": 1,
-   "versionNonce": 2046922253,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Rashid Ibn Mansur]]",
-   "locked": false,
-   "text": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
-   "rawText": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
-   "originalText": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
-   "fontSize": 22,
-   "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "IfIJFZymYWU7otMdRzDT",
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
-   "id": "GLmmnmflZSsxKKwzXH2j",
-   "type": "rectangle",
-   "x": 2228,
-   "y": 1102,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#1f5fa8",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
    "seed": 1057871236,
    "version": 1,
    "versionNonce": 191531731,
    "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "7Fx3gxODYfjuMbwrHMbg"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Marwan Ibn Talal]]",
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": null,
    "locked": false
   },
   {
    "id": "7Fx3gxODYfjuMbwrHMbg",
    "type": "text",
-   "x": 2238,
-   "y": 1112,
-   "width": 310,
-   "height": 64,
+   "x": 2268,
+   "y": 1152,
+   "width": 179.20000000000002,
+   "height": 40.0,
    "angle": 0,
    "strokeColor": "#2b1d0e",
    "backgroundColor": "transparent",
@@ -4521,25 +4536,25 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 878938322,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Marwan Ibn Talal]]",
+   "updated": 1791224262236,
+   "link": null,
    "locked": false,
-   "text": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
-   "rawText": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
-   "originalText": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
-   "fontSize": 22,
+   "text": "Kystbyerne",
+   "rawText": "Kystbyerne",
+   "originalText": "Kystbyerne",
+   "fontSize": 32,
    "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "GLmmnmflZSsxKKwzXH2j",
+   "textAlign": "left",
+   "verticalAlign": "top",
+   "containerId": null,
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
    "id": "33KFLKnq7XrBg8CXL0M9",
    "type": "rectangle",
-   "x": 2578,
-   "y": 1102,
+   "x": 2228,
+   "y": 1206,
    "width": 330,
    "height": 84,
    "angle": 0,
@@ -4565,15 +4580,15 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "1cvmlyfbdcJx3TDF8265"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Dalila bint Yasir]]",
+   "updated": 1791224262236,
+   "link": "[[Yusuf Ibn Hakim]]",
    "locked": false
   },
   {
    "id": "1cvmlyfbdcJx3TDF8265",
    "type": "text",
-   "x": 2588,
-   "y": 1112,
+   "x": 2238,
+   "y": 1216,
    "width": 310,
    "height": 64,
    "angle": 0,
@@ -4592,12 +4607,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1706805752,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Dalila bint Yasir]]",
+   "updated": 1791224262236,
+   "link": "[[Yusuf Ibn Hakim]]",
    "locked": false,
-   "text": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
-   "rawText": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
-   "originalText": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
+   "text": "Yusuf Ibn Hakim\nCalandra, Kystsangen",
+   "rawText": "Yusuf Ibn Hakim\nCalandra, Kystsangen",
+   "originalText": "Yusuf Ibn Hakim\nCalandra, Kystsangen",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4609,7 +4624,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "7hT9fquKoPf96QGzlC2k",
    "type": "rectangle",
-   "x": 2228,
+   "x": 2578,
    "y": 1206,
    "width": 330,
    "height": 84,
@@ -4636,14 +4651,14 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "Uolc8q8wd5J5b16dqYGT"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Idris]]",
+   "updated": 1791224262236,
+   "link": "[[Rashid Ibn Mansur]]",
    "locked": false
   },
   {
    "id": "Uolc8q8wd5J5b16dqYGT",
    "type": "text",
-   "x": 2238,
+   "x": 2588,
    "y": 1216,
    "width": 310,
    "height": 64,
@@ -4663,12 +4678,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 239520948,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Idris]]",
+   "updated": 1791224262236,
+   "link": "[[Rashid Ibn Mansur]]",
    "locked": false,
-   "text": "Idris\nKrage, styrmand",
-   "rawText": "Idris\nKrage, styrmand",
-   "originalText": "Idris\nKrage, styrmand",
+   "text": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
+   "rawText": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
+   "originalText": "Rashid Ibn Mansur\nStormkrage, Ådselkrage",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4680,8 +4695,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "gjuWa8mRVtLLCWPgEuxq",
    "type": "rectangle",
-   "x": 2578,
-   "y": 1206,
+   "x": 2228,
+   "y": 1310,
    "width": 330,
    "height": 84,
    "angle": 0,
@@ -4707,15 +4722,15 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "xEykCpZj6R5aDT6mZck7"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Nuri]]",
+   "updated": 1791224262236,
+   "link": "[[Marwan Ibn Talal]]",
    "locked": false
   },
   {
    "id": "xEykCpZj6R5aDT6mZck7",
    "type": "text",
-   "x": 2588,
-   "y": 1216,
+   "x": 2238,
+   "y": 1320,
    "width": 310,
    "height": 64,
    "angle": 0,
@@ -4734,12 +4749,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 334090429,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Nuri]]",
+   "updated": 1791224262236,
+   "link": "[[Marwan Ibn Talal]]",
    "locked": false,
-   "text": "Nuri\nSpurv, skibsdreng",
-   "rawText": "Nuri\nSpurv, skibsdreng",
-   "originalText": "Nuri\nSpurv, skibsdreng",
+   "text": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
+   "rawText": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
+   "originalText": "Marwan Ibn Talal\nKrage, tidl. slavehandler",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4751,7 +4766,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "7N3x4ViXC9g77y1bOeCv",
    "type": "rectangle",
-   "x": 2228,
+   "x": 2578,
    "y": 1310,
    "width": 330,
    "height": 84,
@@ -4778,14 +4793,14 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "EhOxjvoVdlTCJ4jC3jrA"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Harith Ibn Zayd]]",
+   "updated": 1791224262236,
+   "link": "[[Dalila bint Yasir]]",
    "locked": false
   },
   {
    "id": "EhOxjvoVdlTCJ4jC3jrA",
    "type": "text",
-   "x": 2238,
+   "x": 2588,
    "y": 1320,
    "width": 310,
    "height": 64,
@@ -4805,12 +4820,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1059813140,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Harith Ibn Zayd]]",
+   "updated": 1791224262236,
+   "link": "[[Dalila bint Yasir]]",
    "locked": false,
-   "text": "Harith Ibn Zayd\nKrage, Sandsvalen",
-   "rawText": "Harith Ibn Zayd\nKrage, Sandsvalen",
-   "originalText": "Harith Ibn Zayd\nKrage, Sandsvalen",
+   "text": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
+   "rawText": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
+   "originalText": "Dalila bint Yasir\nStormkrage, Morgenstjernen",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -4822,10 +4837,223 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "jbrK1svZkqFguD5EhjGd",
    "type": "rectangle",
+   "x": 2228,
+   "y": 1414,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#1f5fa8",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 906919042,
+   "version": 1,
+   "versionNonce": 2050655125,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "1shqWmxBqp7pgysA5kd1"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Idris]]",
+   "locked": false
+  },
+  {
+   "id": "1shqWmxBqp7pgysA5kd1",
+   "type": "text",
+   "x": 2238,
+   "y": 1424,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1260677793,
+   "version": 1,
+   "versionNonce": 619983534,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Idris]]",
+   "locked": false,
+   "text": "Idris\nKrage, styrmand",
+   "rawText": "Idris\nKrage, styrmand",
+   "originalText": "Idris\nKrage, styrmand",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "jbrK1svZkqFguD5EhjGd",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "ObCZGvGiCaY18HslxBc6",
+   "type": "rectangle",
+   "x": 2578,
+   "y": 1414,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#1f5fa8",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 1756386286,
+   "version": 1,
+   "versionNonce": 937440701,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "rKli1lHXoTlmMf1f4MUF"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Nuri]]",
+   "locked": false
+  },
+  {
+   "id": "rKli1lHXoTlmMf1f4MUF",
+   "type": "text",
+   "x": 2588,
+   "y": 1424,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1176341943,
+   "version": 1,
+   "versionNonce": 752984870,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Nuri]]",
+   "locked": false,
+   "text": "Nuri\nSpurv, skibsdreng",
+   "rawText": "Nuri\nSpurv, skibsdreng",
+   "originalText": "Nuri\nSpurv, skibsdreng",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "ObCZGvGiCaY18HslxBc6",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "niNQTOZmLtmaeSUHA1U6",
+   "type": "rectangle",
+   "x": 2228,
+   "y": 1518,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#1f5fa8",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 237820078,
+   "version": 1,
+   "versionNonce": 1493108261,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "vs1O38FfaA6WEi3QrplK"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Harith Ibn Zayd]]",
+   "locked": false
+  },
+  {
+   "id": "vs1O38FfaA6WEi3QrplK",
+   "type": "text",
+   "x": 2238,
+   "y": 1528,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1576686431,
+   "version": 1,
+   "versionNonce": 157499963,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Harith Ibn Zayd]]",
+   "locked": false,
+   "text": "Harith Ibn Zayd\nKrage, Sandsvalen",
+   "rawText": "Harith Ibn Zayd\nKrage, Sandsvalen",
+   "originalText": "Harith Ibn Zayd\nKrage, Sandsvalen",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "niNQTOZmLtmaeSUHA1U6",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "kSxKM2awH7C9HehwTp01",
+   "type": "rectangle",
    "x": 400,
    "y": 1814,
    "width": 1440,
-   "height": 288,
+   "height": 392,
    "angle": 0,
    "strokeColor": "#c27000",
    "backgroundColor": "#efe4c8",
@@ -4839,17 +5067,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 906919042,
+   "seed": 1378593350,
    "version": 1,
-   "versionNonce": 2050655125,
+   "versionNonce": 1638053804,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "1shqWmxBqp7pgysA5kd1",
+   "id": "KW5ds3g9UFCGbHZIibp9",
    "type": "ellipse",
    "x": 430,
    "y": 1834,
@@ -4866,17 +5094,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1260677793,
+   "seed": 380474825,
    "version": 1,
-   "versionNonce": 619983534,
+   "versionNonce": 960779818,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "ObCZGvGiCaY18HslxBc6",
+   "id": "NlkgtqJ09bbg7SVmqb1M",
    "type": "text",
    "x": 470,
    "y": 1830,
@@ -4893,12 +5121,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1756386286,
+   "seed": 1992607568,
    "version": 1,
-   "versionNonce": 937440701,
+   "versionNonce": 1023780044,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Syden",
@@ -4913,222 +5141,9 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "lineHeight": 1.25
   },
   {
-   "id": "rKli1lHXoTlmMf1f4MUF",
-   "type": "rectangle",
-   "x": 430,
-   "y": 1884,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#c27000",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
-   "seed": 1176341943,
-   "version": 1,
-   "versionNonce": 752984870,
-   "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "niNQTOZmLtmaeSUHA1U6"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Tariq al-Jamal]]",
-   "locked": false
-  },
-  {
-   "id": "niNQTOZmLtmaeSUHA1U6",
-   "type": "text",
-   "x": 440,
-   "y": 1894,
-   "width": 310,
-   "height": 64,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 237820078,
-   "version": 1,
-   "versionNonce": 1493108261,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Tariq al-Jamal]]",
-   "locked": false,
-   "text": "Tariq al-Jamal\nStormkrage",
-   "rawText": "Tariq al-Jamal\nStormkrage",
-   "originalText": "Tariq al-Jamal\nStormkrage",
-   "fontSize": 22,
-   "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "rKli1lHXoTlmMf1f4MUF",
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
-   "id": "vs1O38FfaA6WEi3QrplK",
-   "type": "rectangle",
-   "x": 780,
-   "y": 1884,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#c27000",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
-   "seed": 1576686431,
-   "version": 1,
-   "versionNonce": 157499963,
-   "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "kSxKM2awH7C9HehwTp01"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Halima bint Nasr]]",
-   "locked": false
-  },
-  {
-   "id": "kSxKM2awH7C9HehwTp01",
-   "type": "text",
-   "x": 790,
-   "y": 1894,
-   "width": 310,
-   "height": 64,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 1378593350,
-   "version": 1,
-   "versionNonce": 1638053804,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Halima bint Nasr]]",
-   "locked": false,
-   "text": "Halima bint Nasr\nRugere, karavaneseraj",
-   "rawText": "Halima bint Nasr\nRugere, karavaneseraj",
-   "originalText": "Halima bint Nasr\nRugere, karavaneseraj",
-   "fontSize": 22,
-   "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "vs1O38FfaA6WEi3QrplK",
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
-   "id": "KW5ds3g9UFCGbHZIibp9",
-   "type": "rectangle",
-   "x": 1130,
-   "y": 1884,
-   "width": 330,
-   "height": 84,
-   "angle": 0,
-   "strokeColor": "#c27000",
-   "backgroundColor": "#fbf5e6",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": {
-    "type": 3
-   },
-   "seed": 380474825,
-   "version": 1,
-   "versionNonce": 960779818,
-   "isDeleted": false,
-   "boundElements": [
-    {
-     "type": "text",
-     "id": "NlkgtqJ09bbg7SVmqb1M"
-    }
-   ],
-   "updated": 1791129911574,
-   "link": "[[Sulaiman Barakat]]",
-   "locked": false
-  },
-  {
-   "id": "NlkgtqJ09bbg7SVmqb1M",
-   "type": "text",
-   "x": 1140,
-   "y": 1894,
-   "width": 310,
-   "height": 64,
-   "angle": 0,
-   "strokeColor": "#2b1d0e",
-   "backgroundColor": "transparent",
-   "fillStyle": "solid",
-   "strokeWidth": 2,
-   "strokeStyle": "solid",
-   "roughness": 1,
-   "opacity": 100,
-   "groupIds": [],
-   "frameId": null,
-   "roundness": null,
-   "seed": 1992607568,
-   "version": 1,
-   "versionNonce": 1023780044,
-   "isDeleted": false,
-   "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Sulaiman Barakat]]",
-   "locked": false,
-   "text": "Sulaiman Barakat\nRugere, daddellund",
-   "rawText": "Sulaiman Barakat\nRugere, daddellund",
-   "originalText": "Sulaiman Barakat\nRugere, daddellund",
-   "fontSize": 22,
-   "fontFamily": 1,
-   "textAlign": "center",
-   "verticalAlign": "middle",
-   "containerId": "KW5ds3g9UFCGbHZIibp9",
-   "autoResize": true,
-   "lineHeight": 1.25
-  },
-  {
    "id": "SCgw3gTlcrhDFLGWrhhh",
    "type": "rectangle",
-   "x": 1480,
+   "x": 430,
    "y": 1884,
    "width": 330,
    "height": 84,
@@ -5155,14 +5170,14 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "ILo3ojQKDVzk80b8OySA"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Jabir al-Sahrawi]]",
+   "updated": 1791224262236,
+   "link": "[[Bilqis]]",
    "locked": false
   },
   {
    "id": "ILo3ojQKDVzk80b8OySA",
    "type": "text",
-   "x": 1490,
+   "x": 440,
    "y": 1894,
    "width": 310,
    "height": 64,
@@ -5182,12 +5197,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1699232829,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Jabir al-Sahrawi]]",
+   "updated": 1791224262236,
+   "link": "[[Bilqis]]",
    "locked": false,
-   "text": "Jabir al-Sahrawi\nKrage, kamelfører",
-   "rawText": "Jabir al-Sahrawi\nKrage, kamelfører",
-   "originalText": "Jabir al-Sahrawi\nKrage, kamelfører",
+   "text": "Bilqis\nCalandra, Sydsangen",
+   "rawText": "Bilqis\nCalandra, Sydsangen",
+   "originalText": "Bilqis\nCalandra, Sydsangen",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -5199,8 +5214,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "8dXxvzp1vTB1KZ6u0z2J",
    "type": "rectangle",
-   "x": 430,
-   "y": 1988,
+   "x": 780,
+   "y": 1884,
    "width": 330,
    "height": 84,
    "angle": 0,
@@ -5226,15 +5241,15 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "Hj9R7wp3BQOaxgHleuBm"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Musa Ibn Khalil]]",
+   "updated": 1791224262236,
+   "link": "[[Tariq al-Jamal]]",
    "locked": false
   },
   {
    "id": "Hj9R7wp3BQOaxgHleuBm",
    "type": "text",
-   "x": 440,
-   "y": 1998,
+   "x": 790,
+   "y": 1894,
    "width": 310,
    "height": 64,
    "angle": 0,
@@ -5253,12 +5268,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 968422568,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Musa Ibn Khalil]]",
+   "updated": 1791224262236,
+   "link": "[[Tariq al-Jamal]]",
    "locked": false,
-   "text": "Musa Ibn Khalil\nKrage, karavanevagt",
-   "rawText": "Musa Ibn Khalil\nKrage, karavanevagt",
-   "originalText": "Musa Ibn Khalil\nKrage, karavanevagt",
+   "text": "Tariq al-Jamal\nStormkrage",
+   "rawText": "Tariq al-Jamal\nStormkrage",
+   "originalText": "Tariq al-Jamal\nStormkrage",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -5270,8 +5285,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "iAzX7DOcZ44cc3PNr6RN",
    "type": "rectangle",
-   "x": 780,
-   "y": 1988,
+   "x": 1130,
+   "y": 1884,
    "width": 330,
    "height": 84,
    "angle": 0,
@@ -5297,15 +5312,15 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "NgqhHaBp8cshtwPkhdM9"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Ibrahim Ibn Sa'id]]",
+   "updated": 1791224262236,
+   "link": "[[Halima bint Nasr]]",
    "locked": false
   },
   {
    "id": "NgqhHaBp8cshtwPkhdM9",
    "type": "text",
-   "x": 790,
-   "y": 1998,
+   "x": 1140,
+   "y": 1894,
    "width": 310,
    "height": 64,
    "angle": 0,
@@ -5324,12 +5339,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 362813316,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Ibrahim Ibn Sa'id]]",
+   "updated": 1791224262236,
+   "link": "[[Halima bint Nasr]]",
    "locked": false,
-   "text": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
-   "rawText": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
-   "originalText": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
+   "text": "Halima bint Nasr\nRugere, karavaneseraj",
+   "rawText": "Halima bint Nasr\nRugere, karavaneseraj",
+   "originalText": "Halima bint Nasr\nRugere, karavaneseraj",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -5341,8 +5356,8 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "DLI7jChGi4s6AKsrpVfV",
    "type": "rectangle",
-   "x": 1130,
-   "y": 1988,
+   "x": 1480,
+   "y": 1884,
    "width": 330,
    "height": 84,
    "angle": 0,
@@ -5368,15 +5383,15 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "NSKoPymJTxD5JtNEE0tb"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Amira]]",
+   "updated": 1791224262236,
+   "link": "[[Sulaiman Barakat]]",
    "locked": false
   },
   {
    "id": "NSKoPymJTxD5JtNEE0tb",
    "type": "text",
-   "x": 1140,
-   "y": 1998,
+   "x": 1490,
+   "y": 1894,
    "width": 310,
    "height": 64,
    "angle": 0,
@@ -5395,12 +5410,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 1433086430,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Amira]]",
+   "updated": 1791224262236,
+   "link": "[[Sulaiman Barakat]]",
    "locked": false,
-   "text": "Amira\nSpurv, brøndvogter",
-   "rawText": "Amira\nSpurv, brøndvogter",
-   "originalText": "Amira\nSpurv, brøndvogter",
+   "text": "Sulaiman Barakat\nRugere, daddellund",
+   "rawText": "Sulaiman Barakat\nRugere, daddellund",
+   "originalText": "Sulaiman Barakat\nRugere, daddellund",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -5412,7 +5427,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   {
    "id": "omGIyLza7wk38puJuFrs",
    "type": "rectangle",
-   "x": 1480,
+   "x": 430,
    "y": 1988,
    "width": 330,
    "height": 84,
@@ -5439,14 +5454,14 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
      "id": "dXbkJeM3wCQdHy1CwVWg"
     }
    ],
-   "updated": 1791129911574,
-   "link": "[[Ayub den Blinde]]",
+   "updated": 1791224262236,
+   "link": "[[Jabir al-Sahrawi]]",
    "locked": false
   },
   {
    "id": "dXbkJeM3wCQdHy1CwVWg",
    "type": "text",
-   "x": 1490,
+   "x": 440,
    "y": 1998,
    "width": 310,
    "height": 64,
@@ -5466,12 +5481,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "versionNonce": 663665262,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
-   "link": "[[Ayub den Blinde]]",
+   "updated": 1791224262236,
+   "link": "[[Jabir al-Sahrawi]]",
    "locked": false,
-   "text": "Ayub den Blinde\nVismand",
-   "rawText": "Ayub den Blinde\nVismand",
-   "originalText": "Ayub den Blinde\nVismand",
+   "text": "Jabir al-Sahrawi\nKrage, kamelfører",
+   "rawText": "Jabir al-Sahrawi\nKrage, kamelfører",
+   "originalText": "Jabir al-Sahrawi\nKrage, kamelfører",
    "fontSize": 22,
    "fontFamily": 1,
    "textAlign": "center",
@@ -5482,6 +5497,290 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
   },
   {
    "id": "AvQwiRmNN2r01HgV2V7W",
+   "type": "rectangle",
+   "x": 780,
+   "y": 1988,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#c27000",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 2041133452,
+   "version": 1,
+   "versionNonce": 1153983184,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "YOTO6TiA3gaAXJLhFz9K"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Musa Ibn Khalil]]",
+   "locked": false
+  },
+  {
+   "id": "YOTO6TiA3gaAXJLhFz9K",
+   "type": "text",
+   "x": 790,
+   "y": 1998,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 642669263,
+   "version": 1,
+   "versionNonce": 1794910363,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Musa Ibn Khalil]]",
+   "locked": false,
+   "text": "Musa Ibn Khalil\nKrage, karavanevagt",
+   "rawText": "Musa Ibn Khalil\nKrage, karavanevagt",
+   "originalText": "Musa Ibn Khalil\nKrage, karavanevagt",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "AvQwiRmNN2r01HgV2V7W",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "2Yr3NMhy2CSDsUwswzHJ",
+   "type": "rectangle",
+   "x": 1130,
+   "y": 1988,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#c27000",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 1651418804,
+   "version": 1,
+   "versionNonce": 1382952716,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "aYV2FyCtlItZjBKyLof0"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Ibrahim Ibn Sa'id]]",
+   "locked": false
+  },
+  {
+   "id": "aYV2FyCtlItZjBKyLof0",
+   "type": "text",
+   "x": 1140,
+   "y": 1998,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1417687047,
+   "version": 1,
+   "versionNonce": 1390997800,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Ibrahim Ibn Sa'id]]",
+   "locked": false,
+   "text": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
+   "rawText": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
+   "originalText": "Ibrahim Ibn Sa'id\nDaglejer, tidl. Krage",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "2Yr3NMhy2CSDsUwswzHJ",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "1M1p9unB569abdqK5Ft6",
+   "type": "rectangle",
+   "x": 1480,
+   "y": 1988,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#c27000",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 1341827737,
+   "version": 1,
+   "versionNonce": 1877586822,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "H0HURByDwcMRwC8aReHo"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Amira]]",
+   "locked": false
+  },
+  {
+   "id": "H0HURByDwcMRwC8aReHo",
+   "type": "text",
+   "x": 1490,
+   "y": 1998,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 425056906,
+   "version": 1,
+   "versionNonce": 1758871158,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Amira]]",
+   "locked": false,
+   "text": "Amira\nSpurv, brøndvogter",
+   "rawText": "Amira\nSpurv, brøndvogter",
+   "originalText": "Amira\nSpurv, brøndvogter",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "1M1p9unB569abdqK5Ft6",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "xGzPJ7Kj4m9AFzCXN5Lv",
+   "type": "rectangle",
+   "x": 430,
+   "y": 2092,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#c27000",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 396179720,
+   "version": 1,
+   "versionNonce": 733246795,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "xuxe0tGlhP5sSv07G4AO"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Ayub den Blinde]]",
+   "locked": false
+  },
+  {
+   "id": "xuxe0tGlhP5sSv07G4AO",
+   "type": "text",
+   "x": 440,
+   "y": 2102,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 671731392,
+   "version": 1,
+   "versionNonce": 1245224292,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Ayub den Blinde]]",
+   "locked": false,
+   "text": "Ayub den Blinde\nVismand",
+   "rawText": "Ayub den Blinde\nVismand",
+   "originalText": "Ayub den Blinde\nVismand",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "xGzPJ7Kj4m9AFzCXN5Lv",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "0GnG5mAldOKMgwKOOUcS",
    "type": "rectangle",
    "x": 1960,
    "y": 1814,
@@ -5500,17 +5799,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 2041133452,
+   "seed": 1767025253,
    "version": 1,
-   "versionNonce": 1153983184,
+   "versionNonce": 46101016,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "YOTO6TiA3gaAXJLhFz9K",
+   "id": "YatTSJa6tz1gLaQbmlFX",
    "type": "ellipse",
    "x": 1990,
    "y": 1834,
@@ -5527,17 +5826,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 642669263,
+   "seed": 1142540943,
    "version": 1,
-   "versionNonce": 1794910363,
+   "versionNonce": 617262033,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "2Yr3NMhy2CSDsUwswzHJ",
+   "id": "KmAMhjkHWGgbgek8HF0D",
    "type": "text",
    "x": 2030,
    "y": 1830,
@@ -5554,12 +5853,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1651418804,
+   "seed": 1849504377,
    "version": 1,
-   "versionNonce": 1382952716,
+   "versionNonce": 266782874,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Vestgrænsen",
@@ -5574,7 +5873,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "lineHeight": 1.25
   },
   {
-   "id": "aYV2FyCtlItZjBKyLof0",
+   "id": "PaRXLujTpwrkcrOg258L",
    "type": "rectangle",
    "x": 1990,
    "y": 1884,
@@ -5593,22 +5892,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 1417687047,
+   "seed": 270679755,
    "version": 1,
-   "versionNonce": 1390997800,
+   "versionNonce": 1498486498,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "1M1p9unB569abdqK5Ft6"
+     "id": "mCNybdo4zLW9cCdNppoc"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Nasir Ibn Fahd]]",
    "locked": false
   },
   {
-   "id": "1M1p9unB569abdqK5Ft6",
+   "id": "mCNybdo4zLW9cCdNppoc",
    "type": "text",
    "x": 2000,
    "y": 1894,
@@ -5625,12 +5924,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1341827737,
+   "seed": 684626781,
    "version": 1,
-   "versionNonce": 1877586822,
+   "versionNonce": 745310733,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Nasir Ibn Fahd]]",
    "locked": false,
    "text": "Nasir Ibn Fahd\nStormkrage",
@@ -5640,12 +5939,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "aYV2FyCtlItZjBKyLof0",
+   "containerId": "PaRXLujTpwrkcrOg258L",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "H0HURByDwcMRwC8aReHo",
+   "id": "ua530DtAMq94F8epRyRT",
    "type": "rectangle",
    "x": 2340,
    "y": 1884,
@@ -5664,22 +5963,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 425056906,
+   "seed": 950898576,
    "version": 1,
-   "versionNonce": 1758871158,
+   "versionNonce": 1775947321,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "xGzPJ7Kj4m9AFzCXN5Lv"
+     "id": "tz4TFbY3pflkwyla4szJ"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hassan Ibn Omar]]",
    "locked": false
   },
   {
-   "id": "xGzPJ7Kj4m9AFzCXN5Lv",
+   "id": "tz4TFbY3pflkwyla4szJ",
    "type": "text",
    "x": 2350,
    "y": 1894,
@@ -5696,12 +5995,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 396179720,
+   "seed": 1558799634,
    "version": 1,
-   "versionNonce": 733246795,
+   "versionNonce": 493433118,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Hassan Ibn Omar]]",
    "locked": false,
    "text": "Hassan Ibn Omar\nRugere, pottemager",
@@ -5711,12 +6010,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "H0HURByDwcMRwC8aReHo",
+   "containerId": "ua530DtAMq94F8epRyRT",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "xuxe0tGlhP5sSv07G4AO",
+   "id": "vI3yvzPe9hB06wJpymDs",
    "type": "rectangle",
    "x": -540,
    "y": 0,
@@ -5735,17 +6034,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 671731392,
+   "seed": 1479526258,
    "version": 1,
-   "versionNonce": 1245224292,
+   "versionNonce": 1018657583,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "0GnG5mAldOKMgwKOOUcS",
+   "id": "BcrQbvZjpTifmrI1YiJC",
    "type": "ellipse",
    "x": -510,
    "y": 20,
@@ -5762,17 +6061,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1767025253,
+   "seed": 2005976616,
    "version": 1,
-   "versionNonce": 46101016,
+   "versionNonce": 1031584204,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "YatTSJa6tz1gLaQbmlFX",
+   "id": "kxwnUzyO9Lnt8EGno2CR",
    "type": "text",
    "x": -470,
    "y": 16,
@@ -5789,12 +6088,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1142540943,
+   "seed": 562403865,
    "version": 1,
-   "versionNonce": 617262033,
+   "versionNonce": 1119954829,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Tharkien",
@@ -5809,7 +6108,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "lineHeight": 1.25
   },
   {
-   "id": "KmAMhjkHWGgbgek8HF0D",
+   "id": "M5CLxIpzMGni3WhRGfI2",
    "type": "rectangle",
    "x": -510,
    "y": 70,
@@ -5828,22 +6127,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 1849504377,
+   "seed": 1161398349,
    "version": 1,
-   "versionNonce": 266782874,
+   "versionNonce": 1652779196,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "PaRXLujTpwrkcrOg258L"
+     "id": "bQTKjtayTfSlX2oumQ5g"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Aurelio Danza]]",
    "locked": false
   },
   {
-   "id": "PaRXLujTpwrkcrOg258L",
+   "id": "bQTKjtayTfSlX2oumQ5g",
    "type": "text",
    "x": -500,
    "y": 80,
@@ -5860,12 +6159,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 270679755,
+   "seed": 292404828,
    "version": 1,
-   "versionNonce": 1498486498,
+   "versionNonce": 1552554451,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Aurelio Danza]]",
    "locked": false,
    "text": "Aurelio Danza\nStormkrage, Paest",
@@ -5875,12 +6174,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "KmAMhjkHWGgbgek8HF0D",
+   "containerId": "M5CLxIpzMGni3WhRGfI2",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "mCNybdo4zLW9cCdNppoc",
+   "id": "ZGWtmeTtfosi0Tzswz26",
    "type": "rectangle",
    "x": -510,
    "y": 174,
@@ -5899,22 +6198,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 684626781,
+   "seed": 1994859548,
    "version": 1,
-   "versionNonce": 745310733,
+   "versionNonce": 567656616,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "ua530DtAMq94F8epRyRT"
+     "id": "7rlbxRZQSw5AbQTSDp2z"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Bertolo Fenzi]]",
    "locked": false
   },
   {
-   "id": "ua530DtAMq94F8epRyRT",
+   "id": "7rlbxRZQSw5AbQTSDp2z",
    "type": "text",
    "x": -500,
    "y": 184,
@@ -5931,12 +6230,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 950898576,
+   "seed": 1512316051,
    "version": 1,
-   "versionNonce": 1775947321,
+   "versionNonce": 419609282,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Bertolo Fenzi]]",
    "locked": false,
    "text": "Bertolo Fenzi\nKrage, Dorenburg",
@@ -5946,12 +6245,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "mCNybdo4zLW9cCdNppoc",
+   "containerId": "ZGWtmeTtfosi0Tzswz26",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "tz4TFbY3pflkwyla4szJ",
+   "id": "lshr6MUoTRczcMkBmWtj",
    "type": "rectangle",
    "x": -510,
    "y": 278,
@@ -5970,22 +6269,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 1558799634,
+   "seed": 1635274405,
    "version": 1,
-   "versionNonce": 493433118,
+   "versionNonce": 168508189,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "vI3yvzPe9hB06wJpymDs"
+     "id": "JtOO8lK1oKFTHq7BQRKw"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Sennet]]",
    "locked": false
   },
   {
-   "id": "vI3yvzPe9hB06wJpymDs",
+   "id": "JtOO8lK1oKFTHq7BQRKw",
    "type": "text",
    "x": -500,
    "y": 288,
@@ -6002,12 +6301,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1479526258,
+   "seed": 4173692,
    "version": 1,
-   "versionNonce": 1018657583,
+   "versionNonce": 480487081,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Sennet]]",
    "locked": false,
    "text": "Sennet\nKrage, Sølvborg",
@@ -6017,12 +6316,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "tz4TFbY3pflkwyla4szJ",
+   "containerId": "lshr6MUoTRczcMkBmWtj",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "BcrQbvZjpTifmrI1YiJC",
+   "id": "1WXPs5c42LMSdpRhcYun",
    "type": "rectangle",
    "x": -510,
    "y": 382,
@@ -6041,22 +6340,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 2005976616,
+   "seed": 1484612273,
    "version": 1,
-   "versionNonce": 1031584204,
+   "versionNonce": 369954944,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "kxwnUzyO9Lnt8EGno2CR"
+     "id": "ASVzVN1orHfw88BC7vSG"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Cornelia Vasto]]",
    "locked": false
   },
   {
-   "id": "kxwnUzyO9Lnt8EGno2CR",
+   "id": "ASVzVN1orHfw88BC7vSG",
    "type": "text",
    "x": -500,
    "y": 392,
@@ -6073,12 +6372,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 562403865,
+   "seed": 1944677121,
    "version": 1,
-   "versionNonce": 1119954829,
+   "versionNonce": 233219326,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Cornelia Vasto]]",
    "locked": false,
    "text": "Cornelia Vasto\nSkipper, ikke medlem",
@@ -6088,17 +6387,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "BcrQbvZjpTifmrI1YiJC",
+   "containerId": "1WXPs5c42LMSdpRhcYun",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "M5CLxIpzMGni3WhRGfI2",
+   "id": "RSnBRG27XiFWmc8S0ZJq",
    "type": "rectangle",
    "x": -540,
    "y": 616,
    "width": 390,
-   "height": 288,
+   "height": 392,
    "angle": 0,
    "strokeColor": "#00838f",
    "backgroundColor": "#efe4c8",
@@ -6112,17 +6411,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 1161398349,
+   "seed": 749603910,
    "version": 1,
-   "versionNonce": 1652779196,
+   "versionNonce": 703069794,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "bQTKjtayTfSlX2oumQ5g",
+   "id": "XOpIqp9dkwwAfmOtiiRT",
    "type": "ellipse",
    "x": -510,
    "y": 636,
@@ -6139,17 +6438,17 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 292404828,
+   "seed": 2089257873,
    "version": 1,
-   "versionNonce": 1552554451,
+   "versionNonce": 2073515950,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false
   },
   {
-   "id": "ZGWtmeTtfosi0Tzswz26",
+   "id": "pTpaGSCi7PwSti4TjLKp",
    "type": "text",
    "x": -470,
    "y": 632,
@@ -6166,12 +6465,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1994859548,
+   "seed": 1432679499,
    "version": 1,
-   "versionNonce": 567656616,
+   "versionNonce": 506682628,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": null,
    "locked": false,
    "text": "Kaarn",
@@ -6186,7 +6485,7 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "lineHeight": 1.25
   },
   {
-   "id": "7rlbxRZQSw5AbQTSDp2z",
+   "id": "JBW8kRQjMD1Xz1nhSsax",
    "type": "rectangle",
    "x": -510,
    "y": 686,
@@ -6205,22 +6504,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 1512316051,
+   "seed": 2089968342,
    "version": 1,
-   "versionNonce": 419609282,
+   "versionNonce": 886622011,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "lshr6MUoTRczcMkBmWtj"
+     "id": "cd5rtmhStC9hkuCDKxsk"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Baldrian Barldesh]]",
    "locked": false
   },
   {
-   "id": "lshr6MUoTRczcMkBmWtj",
+   "id": "cd5rtmhStC9hkuCDKxsk",
    "type": "text",
    "x": -500,
    "y": 696,
@@ -6237,12 +6536,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1635274405,
+   "seed": 308457419,
    "version": 1,
-   "versionNonce": 168508189,
+   "versionNonce": 195765379,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Baldrian Barldesh]]",
    "locked": false,
    "text": "Baldrian Barldesh\nVinge, medejer af Den Mørke Storm",
@@ -6252,12 +6551,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "7rlbxRZQSw5AbQTSDp2z",
+   "containerId": "JBW8kRQjMD1Xz1nhSsax",
    "autoResize": true,
    "lineHeight": 1.25
   },
   {
-   "id": "JtOO8lK1oKFTHq7BQRKw",
+   "id": "aDWFfVTvVKqgPF9BFmYI",
    "type": "rectangle",
    "x": -510,
    "y": 790,
@@ -6276,22 +6575,22 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "roundness": {
     "type": 3
    },
-   "seed": 4173692,
+   "seed": 1382176479,
    "version": 1,
-   "versionNonce": 480487081,
+   "versionNonce": 35657392,
    "isDeleted": false,
    "boundElements": [
     {
      "type": "text",
-     "id": "1WXPs5c42LMSdpRhcYun"
+     "id": "w6fPsON7UPSqPpfiVbbX"
     }
    ],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Ottilie Brandt]]",
    "locked": false
   },
   {
-   "id": "1WXPs5c42LMSdpRhcYun",
+   "id": "w6fPsON7UPSqPpfiVbbX",
    "type": "text",
    "x": -500,
    "y": 800,
@@ -6308,12 +6607,12 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "groupIds": [],
    "frameId": null,
    "roundness": null,
-   "seed": 1484612273,
+   "seed": 1697685197,
    "version": 1,
-   "versionNonce": 369954944,
+   "versionNonce": 623359739,
    "isDeleted": false,
    "boundElements": [],
-   "updated": 1791129911574,
+   "updated": 1791224262236,
    "link": "[[Ottilie Brandt]]",
    "locked": false,
    "text": "Ottilie Brandt\nKrage, regnskabsfører",
@@ -6323,7 +6622,78 @@ a4c123b1612dd272d1371c17149d439536b3216f: [[Kort/niraham.jpg]]
    "fontFamily": 1,
    "textAlign": "center",
    "verticalAlign": "middle",
-   "containerId": "JtOO8lK1oKFTHq7BQRKw",
+   "containerId": "aDWFfVTvVKqgPF9BFmYI",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "sxl9OH257RkgYU1tVNuy",
+   "type": "rectangle",
+   "x": -510,
+   "y": 894,
+   "width": 330,
+   "height": 84,
+   "angle": 0,
+   "strokeColor": "#00838f",
+   "backgroundColor": "#fbf5e6",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 792605466,
+   "version": 1,
+   "versionNonce": 1530068376,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "type": "text",
+     "id": "uoxiJ6x11qpdcgKZO60T"
+    }
+   ],
+   "updated": 1791224262236,
+   "link": "[[Henrike Voss]]",
+   "locked": false
+  },
+  {
+   "id": "uoxiJ6x11qpdcgKZO60T",
+   "type": "text",
+   "x": -500,
+   "y": 904,
+   "width": 310,
+   "height": 64,
+   "angle": 0,
+   "strokeColor": "#2b1d0e",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1731826718,
+   "version": 1,
+   "versionNonce": 217097666,
+   "isDeleted": false,
+   "boundElements": [],
+   "updated": 1791224262236,
+   "link": "[[Henrike Voss]]",
+   "locked": false,
+   "text": "Henrike Voss\nRugere, udvalgt Calandra",
+   "rawText": "Henrike Voss\nRugere, udvalgt Calandra",
+   "originalText": "Henrike Voss\nRugere, udvalgt Calandra",
+   "fontSize": 22,
+   "fontFamily": 1,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "sxl9OH257RkgYU1tVNuy",
    "autoResize": true,
    "lineHeight": 1.25
   }

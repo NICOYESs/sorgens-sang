@@ -28,6 +28,7 @@ Blandt ordenens medlemmer i Syden er det udbredt at forbinde ham med myten om [[
 
 - [[Tariq al-Jamal]]: fører unger til hans stamme
 - [[Jabir al-Sahrawi]]: blev opfostret i hans stamme
+- [[Bilqis]]: hennamaleren, der besøger stammen hvert år
 
 > [!sandhed]- Spillederviden
 > Om Ayub er Nadim, er bevidst ikke fastlagt. Han kan være den befriede Calandra, eller han kan være en gammel mand, som ordenens håb har gjort til mere, end han er. Se [[Nadims fald#Nadims skæbne]].

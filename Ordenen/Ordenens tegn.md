@@ -11,7 +11,7 @@ tags: [ssb/wiki, ssb/orden]
 
 Fjer bruges som kendetegn i beskeder og ved overdragelser. Farven angiver beskedens art:
 
-- **Grå fjer:** beskeden kommer fra en Calandra. Tegnet stammer ifølge ordenens overlevering fra [[Den Tomme Volière]].
+- **Grå fjer:** beskeden kommer fra en Calandra. Tegnet stammer ifølge ordenens overlevering fra [[Den Tomme Volière]]. Da en fjer kan efterlignes, skal brevet også rumme det gældende kodeord (se [[Grenene#Sangene]]).
 - **Sort fjer:** fare. Lagt ved en rede betyder den, at reden er blæst.
 - **Hvid fjer:** den, der bærer den, er under ordenens beskyttelse og skal hjælpes videre. Bruges især for unger på trækruterne.
 
@@ -31,7 +31,7 @@ Ordenen har få kendetegn på kroppen, da synlige mærker kan afsløre et medlem
 - **Fuglefoden:** Tre streger fra et fælles punkt, tatoveret på indersiden af håndleddet. Den gives til en Stormkrage ved anerkendelsen og skjules som regel under et armbånd eller en læderrem. En afsat Stormkrage får sin fuglefod overstreget med en fjerde streg (se [[Titler og rang]]).
 - **Fjerdækket brændemærke:** Befriede slaver får ofte deres slavemærke dækket af en tatoveret fjer. Skikken er udbredt blandt befriede, der er blevet i ordenen.
 
-Calandraerne bærer ingen særlige kendetegn.
+Calandraerne bærer ingen særlige kendetegn, og de fleste af ordenens medlemmer ved ikke, hvem de er (se [[Grenene]]).
 
 ## Skjulte beskeder
 
@@ -41,5 +41,6 @@ Beskeder skjules i almindelige varer, så de kan bæres åbenlyst. Kendte metode
 - i bunden af lerkrukker på landruten mod Tharkien (se [[Hassan Ibn Omar]])
 - i kornsække og dadelkurve på ruterne mod syd
 - i en bestemt ændring af et handelsmærke på varer, der sendes over havet
+- i [[Grenene|grenene]], skjulesteder hvor breve til og fra en Calandra lægges og hentes
 
 Se også [[Rederne]].

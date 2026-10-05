@@ -30,3 +30,4 @@ Hun ser alle, der rejser forbi, og kender de fleste karavaneførere, vagter og s
 - [[Musa Ibn Khalil]]: overnatter jævnligt i serajen med sine karavaner
 - [[Sulaiman Barakat]]: hun sender unger videre til daddellunden
 - [[Karim Ibn Walid]]: Vingen, der bringer beskeder fra Cartheero
+- [[Bilqis]]: maler brudernes henna i serajen

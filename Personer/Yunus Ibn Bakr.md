@@ -26,7 +26,7 @@ Yunus døde omkring 15 EH, da byvagten ryddede en række lagerhuse i havnekvarte
 
 ## Forbindelser
 
-- [[Saffiya bint Harun]]: hans Calandra
+- [[Saffiya bint Harun]]: hans Calandra, uden at han vidste det
 - [[Baldrian Barldesh]]: hans Spurv og Krage
 - [[Mahmoud al-Warraq]]: modtog gruppens beskeder i bogbinderiet
 

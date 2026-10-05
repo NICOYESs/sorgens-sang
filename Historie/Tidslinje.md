@@ -35,7 +35,7 @@ Tidsregning: **EJ** (efter Jarco) og **EH** (efter Himmelkrigene). 1469 EJ = 0 E
 ![[Sorgens Sangs Broderskab#Himmelkrigene og de tavse guder]]
 
 > # Efter 0 EH – Stormkragernes tid
-> Ordenen samler sig i områder, hver med sin egen Calandra. Stormkragerne bliver lokale ledere.
+> Ordenen samler sig i områder, hver med sin egen Calandra. Calandraerne skjules bag grenene, så ingen kan udpege dem. Stormkragerne bliver lokale ledere.
 
 ![[Sorgens Sangs Broderskab#Organisation efter Nadim]]
 
@@ -53,6 +53,9 @@ Tidsregning: **EJ** (efter Jarco) og **EH** (efter Himmelkrigene). 1469 EJ = 0 E
 > Den Mørke Storm åbner handelshus i Dorenburg, og Tværvejen forbinder kompagniets to huse. Sorgens Sang udvider til Tharkien, til lands over Zara’bashs vestgrænse og til søs med selvstændige skippere. Første fodfæste i Paest.
 
 ![[Sorgens Sangs Broderskab#Udvidelsen til Tharkien]]
+
+> [!sandhed]- 35 EH
+> Calandraerne vælger Henrike Voss som Calandra over Kamirrhavet. Hun har ikke svaret. → [[De mange grene#Kamirrhavet]]
 
 > # 36 EH – Nutiden
 > Sorgens Sang er en Kasmani-orden med flere Calandraer, spredt langs handelsruterne.

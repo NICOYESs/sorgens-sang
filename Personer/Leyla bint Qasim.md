@@ -27,7 +27,7 @@ Hun ved, at hendes far engang var med i ordenen, men tror, at han forlod den fø
 ## Forbindelser
 
 - [[Qasim Ibn Dawud]]: hendes far
-- [[Saffiya bint Harun]]: hendes Calandra
+- [[Saffiya bint Harun]]: hendes Calandra, uden at Leyla ved det
 - [[Rashid Ibn Mansur]]: har brugt hendes oplysninger til angreb på slaveskibe
 - [[Bertolo Fenzi]]: deres protokoller sammenholdes, så slaver kan følges over havet
 - [[Yasmin al-Khattat]]: hun skaffer hende toldstempler

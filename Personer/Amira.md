@@ -25,4 +25,5 @@ Hun er ikke optaget i ordenen og kender ikke dens navn, men sender sine iagttage
 ## Forbindelser
 
 - [[Halima bint Nasr]]: modtager hendes beskeder
+- [[Bilqis]]: hennamaleren, der kommer forbi oasen. En af Sydsangens grene ligger ved Amiras brønd, uden at Amira ved det
 - [[Hassan Ibn Omar]]: landsbyerne på ruten sender befriede videre mellem sig
