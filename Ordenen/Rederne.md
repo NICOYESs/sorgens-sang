@@ -38,6 +38,7 @@ Ruterne, som unger føres ad mellem rederne, kaldes **trækruterne** efter fugle
 | [[Barakats Daddellund]] | Syden | [[Sulaiman Barakat]] |
 | Karavaneserajen | Syden | [[Halima bint Nasr]] |
 | Pottemagerens ovne | Vestgrænsen | [[Hassan Ibn Omar]] |
+| Voss’ pakhus | Kaarn, Narabond | [[Henrike Voss]] |
 | [[Saltkælderen]] | Paest, Tharkien | [[Aurelio Danza]] |
 | *Morgenstjernen* og *Sandsvalen* | Kamirrhavet | [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] |
 

@@ -31,6 +31,7 @@ Da rygtet om en forræderisk Vinge i 1465 EJ er velkendt i ordenen, og Mahmoud e
 - [[Hamid]]: modtager oplysninger fra paladset gennem hans bøger
 - [[Yasmin al-Khattat]]: hendes forfalskede papirer sendes i hans bind
 - [[Karim Ibn Walid]]: hans elev
+- [[Baldrian Barldesh]]: tog imod hans beskeder, da han var Spurv, og oplærte ham som Vinge
 
 > [!sandhed]- Spillederviden
 > Mahmoud kan bruges enten som den forræderiske Vinge fra 1465 EJ eller som en uskyldig mand, der bærer mistanken for en anden. Se [[Nadims fald#Vingen]].

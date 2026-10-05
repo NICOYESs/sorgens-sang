@@ -39,14 +39,17 @@ Ordningen har en svaghed. Hvis en Calandra holder hånden over en Ådselkrage i 
 
 Ordenens forbindelser over Kamirrhavet, som Baldrian havde opbygget i ly af sin andel i Den Mørke Storms Handelskompagni efter 30 EH, blev efterhånden så omfattende, at de blev et område for sig. De øvrige Calandraer tilbød titlen som Calandra dér til [[Baldrian Barldesh]], den Vinge, der havde bygget ruterne op.
 
-Baldrian afslog og forblev Vinge.
+Baldrian afslog og forblev Vinge. Han gav selv to grunde. Den første var Nadims sidste besked: Baldrian var i forvejen medejer af kompagniet, kendte alle ruterne og havde selv optaget de fleste af områdets medlemmer. Som Calandra ville alle områdets tråde samles hos ham, og et fald for kompagniet ville blive et fald for ordenen. Den anden var praktisk: en Calandra skal blive i sit område og holde sig skjult, mens Baldrians værdi ligger i, at han rejser.
 
-%% Baldrians grunde hører til hans karakterhistorie. Skriv dem ind her, hvis de skal være en del af vaultens sandhed. Fastlæg også, om området ved Kamirrhavet har fået en anden Calandra, eller om det stadig står uden. %%
+[[Rashid Ibn Mansur]] har set afslaget som et tegn på, at selv ordenens dygtigste ikke tør tage magten, når den tilbydes.
+
+%% Fastlæg, om området ved Kamirrhavet har fået en anden Calandra, eller om det stadig står uden. Henrike Voss er en mulig kandidat. %%
 
 ## Tråde til spil
 
 - **Én fugl igen.** En ambitiøs Calandra kan mene, at ordenen var stærkere under én leder, og arbejde på at samle områderne under sig. Det er et brud på Nadims sidste besked.
 - **Ådselkragernes Calandra.** Et område, hvis Calandra lader brutale Stormkrager gøre, som de vil, kan blive et problem for hele ordenen.
-- **Den tomme plads ved Kamirrhavet.** Hvem tager den titel, Baldrian afslog?
+- **Den tomme plads ved Kamirrhavet.** Hvem tager den titel, Baldrian afslog? [[Henrike Voss]] er den ældste over havet, men ny i troen.
+- **Rashid og ruterne.** Hvis Rashid vil samle ordenen under én Calandra, er Baldrians ruter over havet netop det, han mangler.
 
 Se også [[Nadims fald]] og [[Myte og sandhed]].

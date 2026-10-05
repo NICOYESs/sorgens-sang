@@ -29,7 +29,9 @@ Saffiya regnes for en af de mest forsigtige Calandraer. Hun afsætter hellere en
 - [[Mahmoud al-Warraq]]: gammel ven fra Sandets Sangs tid, hendes vigtigste Vinge
 - [[Leyla bint Qasim]] og [[Faris]]: optaget i ordenen gennem hendes netværk
 - [[Yusuf Ibn Hakim]]: Calandra over kystbyerne, hendes modpart
-- [[Baldrian Barldesh]]: hun var Calandra over hans hjemby og en af dem, der tilbød ham titlen ved Kamirrhavet
+- [[Baldrian Barldesh]]: kendte hans mor fra vaskepladsen, pegede ham ud som barn, udpegede ham til Vinge og var en af dem, der tilbød ham titlen ved Kamirrhavet
+- [[Yunus Ibn Bakr]]: hendes Stormkrage i havnekvarteret til ca. 15 EH
+- [[Umm Hayat]]: hun sendte Baldrian ind i Tamariskkredsen
 - [[Zahra bint Karim]]: Rugere i Det Tavse Tempel
 - [[Qadir]]: hun kender ham fra han var barn
 - [[Karim Ibn Walid]]: bærer hendes beskeder mod syd

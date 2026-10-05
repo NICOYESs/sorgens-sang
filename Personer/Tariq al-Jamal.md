@@ -28,6 +28,7 @@ Tariq regnes for en af de Stormkrager, der holder sig tættest til Nadims gamle 
 
 - [[Ibrahim Ibn Sa'id]]: hans meddeler i karavaneserajen
 - [[Faris]]: han leder efter drengens søster
+- [[Baldrian Barldesh]]: deltog i hans angreb på en slavekaravane i 28 EH
 - [[Zainab bint Malik]]: hendes karavaner giver ham dække
 - [[Jabir al-Sahrawi]]: hans yngste Krage, som han befriede
 - [[Halima bint Nasr]]: hendes seraj er gruppens base
