@@ -40,17 +40,20 @@ Tidsregning: **EJ** (efter Jarco) og **EH** (efter Himmelkrigene). 1469 EJ = 0 E
 ![[Sorgens Sangs Broderskab#Organisation efter Nadim]]
 
 > # 28 EH – Idéen og midlerne
-> Baldrian Barldesh får idéen og midlerne til at føre ordenen over Kamirrhavet og rejser over havet.
+> En Vinge fra Cartheero får idéen og midlerne til at føre ordenen over Kamirrhavet og rejser over havet.
 
-> # 30 EH – Den Mørke Storm
-> Den Mørke Storms Handelskompagni grundlægges med hovedkontor i Kaarn med Baldrian som en af medejerne. Kompagniet er ikke en del af ordenen, men giver Baldrian adgang til handelsruterne over havet. Kamirrvejen tages i brug som landvej til Kaarn. Senere tilbydes Baldrian titlen som Calandra over området ved Kamirrhavet. Han afslår.
+> # 30 EH – Handelskompagniet i Kaarn
+> Et handelskompagni grundlægges med hovedkontor i Kaarn med Vingen som en af ejerne. Kompagniet er ikke en del af ordenen, men giver Vingen adgang til handelsruterne over havet. Kamirrvejen tages i brug som landvej til Kaarn. Senere tilbydes Vingen titlen som Calandra over området ved Kamirrhavet. Han afslår.
+
+> [!sandhed]- 28–30 EH
+> Vingen er [[Baldrian Barldesh]], og kompagniet er Den Mørke Storms Handelskompagni.
 
 %% Spillet: 28 EH = 2018, 30 EH = juli 2020. %%
 
 ![[Sorgens Sangs Broderskab#Udvidelsen over Kamirrhavet]]
 
 > # 34 EH – Tharkien
-> Den Mørke Storm åbner handelshus i Dorenburg, og Tværvejen forbinder kompagniets to huse. Sorgens Sang udvider til Tharkien, til lands over Zara’bashs vestgrænse og til søs med selvstændige skippere. Første fodfæste i Paest.
+> Kompagniet fra Kaarn åbner handelshus i Dorenburg, og Tværvejen forbinder kompagniets to huse. Sorgens Sang udvider til Tharkien, til lands over Zara’bashs vestgrænse og til søs med selvstændige skippere. Første fodfæste i Paest.
 
 ![[Sorgens Sangs Broderskab#Udvidelsen til Tharkien]]
 

@@ -77,19 +77,22 @@ Til forskel fra Sandets Sang fører Sorgens Sang i stort omfang mennesker i sikk
 
 I takt med at ordenen fik fodfæste uden for Cartheero, blev det tydeligt, at det, Sorgens Sang bekæmpede, ikke standsede ved rigets grænser. Slavehandel, korruption og skjulte forbindelser fulgte handelsruterne, og ruterne gik videre over havet, gennem Narabond og mod Emyr.
 
-Udvidelsen forbindes især med Vingen **[[Baldrian Barldesh]]** fra Cartheero, der tilhørte den generation, der voksede op efter Nadims tid.
+Udvidelsen forbindes i ordenens overleveringer med en Vinge fra Cartheero, der tilhørte den generation, der voksede op efter Nadims tid. Hans navn nævnes sjældent.
 
-I **28 EH** fik Baldrian både idéen og midlerne til at føre ordenen over Kamirrhavet. Han foreslog, at broderskabet ikke skulle oprette nye celler efter det gamle mønster, men følge varerne, og samme år rejste han over havet for at forberede grundlaget.
+I **28 EH** fik Vingen både idéen og midlerne til at føre ordenen over Kamirrhavet. Han foreslog, at broderskabet ikke skulle oprette nye celler efter det gamle mønster, men følge varerne, og samme år rejste han over havet for at forberede grundlaget.
 
-I **30 EH** blev **Den Mørke Storms Handelskompagni** grundlagt med hovedkontor i den narabonske by Kaarn. Kompagniet er ikke en del af ordenen, men Baldrian er en af dets medejere. Hans andel i kompagniet giver ham en grund til at rejse, adgang til handelsruterne mellem Emyr og Narabond og et dække, under hvilket han kan flytte ordenens beskeder, personer, penge og oplysninger over havet.
+I **30 EH** blev et handelskompagni grundlagt med hovedkontor i den narabonske by Kaarn. Kompagniet er ikke en del af ordenen, men Vingen er en af dets ejere. Hans andel giver ham en grund til at rejse, adgang til handelsruterne mellem Emyr og Narabond og et dække, under hvilket han kan flytte ordenens beskeder, personer, penge og oplysninger over havet.
 
-Da ordenens forbindelser på den anden side af havet i årene efter 30 EH var vokset sig store nok til at blive et område for sig, skal Baldrian være blevet tilbudt titlen som Calandra over det i et brev med en grå fjer. Han afslog og forblev Vinge. Hans grunde gengives forskelligt i ordenens overleveringer.
+Da ordenens forbindelser på den anden side af havet i årene efter 30 EH var vokset sig store nok til at blive et område for sig, skal Vingen være blevet tilbudt titlen som Calandra over det i et brev med en grå fjer. Han afslog og forblev Vinge. Hans grunde gengives forskelligt i ordenens overleveringer.
+
+> [!sandhed]- Spillederviden
+> Vingen er [[Baldrian Barldesh]], og kompagniet er Den Mørke Storms Handelskompagni.
 
 ## Udvidelsen til Tharkien
 
 I **34 EH** udvidede Sorgens Sang sit virke til [Tharkien](https://niraham.dk/riger/tharkien/), vest for Zara’bash. Tharkiens økonomi hviler på slavearbejde, og en stor del af de slaver, der handles i Zara’bash og over Kamirrhavet, ender i de tharkienske bystater.
 
-Udvidelsen skete ad to veje. Til lands fulgte ordenen karavaneruterne over Zara’bashs vestgrænse. Til søs benyttede ordenen selvstændige skippere, der sejler for egen regning, til at etablere forbindelser i Dorenburgs havn, hvor Den Mørke Storm samme år åbnede et handelshus. Ordenens første faste fodfæste blev Paest, der er kendt som tilflugtssted for forbrydere og udstødte, og hvor ordenens folk kunne gemme sig blandt mange andre, der havde grund til at skjule sig.
+Udvidelsen skete ad to veje. Til lands fulgte ordenen karavaneruterne over Zara’bashs vestgrænse. Til søs benyttede ordenen selvstændige skippere, der sejler for egen regning, til at etablere forbindelser i Dorenburgs havn, hvor kompagniet fra Kaarn samme år åbnede et handelshus. Ordenens første faste fodfæste blev Paest, der er kendt som tilflugtssted for forbrydere og udstødte, og hvor ordenens folk kunne gemme sig blandt mange andre, der havde grund til at skjule sig.
 
 Ordenen har fundet nye medlemmer blandt Tharkiens slaver, hvor Kasmani-troen er mindre udbredt end i Zara’bash, men vinder frem. Det er endnu uafklaret, om Tharkien skal være et selvstændigt område med sin egen Calandra.
 
@@ -97,7 +100,7 @@ Ordenen har fundet nye medlemmer blandt Tharkiens slaver, hvor Kasmani-troen er 
 
 I 36 EH er Sorgens Sangs Broderskab ikke længere kun en zarabisk undergrundsorden. Dets oprindelse ligger stadig i Cartheero og i Sandets Sangs gamle netværk, men dets forbindelser rækker længere ud.
 
-Ordenen har stadig Calandraer, Krager og Spurve i flere af Zara’bashs områder, men den har også ruter, kontakter og skjulesteder knyttet til handel over Kamirrhavet. Gennem Baldrians forbindelser kan den arbejde i Narabond og mod Emyr, og siden 34 EH har den haft fodfæste i Tharkien, hvor Den Mørke Storm har et handelshus i Dorenburg.
+Ordenen har stadig Calandraer, Krager og Spurve i flere af Zara’bashs områder, men den har også ruter, kontakter og skjulesteder knyttet til handel over Kamirrhavet. Gennem kompagniet fra Kaarn kan den arbejde i Narabond og mod Emyr, og siden 34 EH har den haft fodfæste i Tharkien, hvor kompagniet har et handelshus i Dorenburg.
 
 Dette har ændret ordenens karakter. Sorgens Sang er blevet mindre afhængig af Cartheero og mere knyttet til handel, rejser, karavaner og havne. Den er samtidig blevet vanskeligere at udrydde, fordi den ikke længere findes samlet ét sted.
 

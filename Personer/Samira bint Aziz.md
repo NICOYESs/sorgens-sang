@@ -1,6 +1,7 @@
 ---
 aliases: [Samira]
 tags: [ssb/person, ssb/resume, ssb/historisk]
+spillederviden: true
 ---
 
 # Samira bint Aziz

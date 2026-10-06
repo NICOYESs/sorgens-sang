@@ -1,6 +1,7 @@
 ---
 aliases: [Baldrian]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Baldrian Barldesh
@@ -23,11 +24,9 @@ tags: [ssb/person, ssb/resume]
 
 Baldrian er gadedreng fra Cartheero og tilhører den generation, der voksede op efter [[Nadim Ibn Rashad al-Calandri|Nadims]] tid. For ham er Nadim en skikkelse fra ordenens oprindelseshistorie, ikke en leder, han har kendt.
 
-%% kun-arrangør %%
 Hans mor var vaskekone og døde omkring 3 EH. [[Saffiya bint Harun]], der havde vasket ved siden af hende, pegede drengen ud for Stormkragen [[Yunus Ibn Bakr]], som tog ham som Spurv omkring 5 EH og optog ham som Krage omkring 13 EH. Baldrians beskeder gik dengang til [[Mahmoud al-Warraq]]s bogbinderi. Efter Yunus’ død omkring 15 EH arbejdede han som karavanekarl, tjener og infiltrator. Omkring 19–21 EH var han medhjælper i [[Umm Hayat]]s heksekreds, Tamariskkredsen, hvor han lærte den praktiske gift- og trylledrikslære, han kalder skyggealkymi. Omkring 22 EH blev han udpeget til Vinge af *Sangen i Cartheero* og oplært af Mahmoud.
 
 I 28 EH deltog han i [[Tariq al-Jamal]]s angreb på en slavekaravane i Zara’bash, og byttet gav ham midlerne til at rejse over havet.
-%% /kun-arrangør %%
 
 Som Vinge stod han bag ordenens udvidelse over Kamirrhavet. I 28 EH fik han idéen og midlerne og rejste over havet. I stedet for at oprette nye celler efter det gamle mønster lod han ordenen følge varerne. Han er en af medejerne af Den Mørke Storms Handelskompagni, der blev grundlagt i Kaarn i 30 EH og åbnede handelshus i Dorenburg i 34 EH, og bruger sin stilling i kompagniet som dække for ordenens arbejde. Kompagniet er ikke en del af ordenen. Da området på den anden side af havet blev stort nok til at få sin egen Calandra, fandt han et brev med en grå fjer i en af grenene i Kaarn. Han lod brevet ligge og forblev Vinge.
 

@@ -60,7 +60,7 @@ Når et område skal have en Calandra, beder de andre Sange gennem Vingerne om n
 
 Den udvalgte finder en dag et brev i en gren. Det indeholder en grå fjer, områdets grene, rækkefølgen og det gældende kodeord. Lægger den udvalgte fjeren tilbage i en anvist gren, er titlen modtaget. Bliver brevet liggende, hvor det blev fundet, er den afslået. Indtil det ene eller det andet er sket, står området uden Calandra. En ny Calandra forsvinder derefter fra syne. Vedkommende nedlægger sine øvrige titler i ordenen og lever videre som en almindelig Spurv eller Krage eller uden for ordenen.
 
-Kun én kendt person har afslået titlen, Vingen [[Baldrian Barldesh]], der blev tilbudt den over området ved Kamirrhavet (se [[Sorgens Sangs Broderskab#Udvidelsen over Kamirrhavet]]).
+Titlen vides kun at være afslået én gang, af den Vinge, der havde bygget ordenen op over Kamirrhavet (se [[Sorgens Sangs Broderskab#Udvidelsen over Kamirrhavet]]).
 
 ## Svagheder
 

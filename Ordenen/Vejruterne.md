@@ -5,7 +5,7 @@ tags: [ssb/wiki, ssb/orden]
 
 # Vejruterne
 
-Ud over [[Rederne#Trækruterne|trækruterne]], der bruges til at føre unger i sikkerhed, benytter [[Sorgens Sangs Broderskab]] en række faste landeveje til at flytte beskeder, penge, varer og medlemmer mellem sine områder. Ruterne forbinder også de handelshuse, ordenen bruger som dække, herunder Den Mørke Storms Handelskompagnis hovedkontor i Kaarn og handelshus i Dorenburg.
+Ud over [[Rederne#Trækruterne|trækruterne]], der bruges til at føre unger i sikkerhed, benytter [[Sorgens Sangs Broderskab]] en række faste landeveje til at flytte beskeder, penge, varer og medlemmer mellem sine områder. Ruterne forbinder også de handelshuse, ordenen bruger som dække, herunder et handelskompagnis hovedkontor i Kaarn og handelshus i Dorenburg.
 
 Ordenens folk rejser på vejruterne som almindelige handelsfolk, karavanevagter og kurerer. Vinger rider ruterne med beskeder, og langs hver rute ligger holdepunkter, hvor der kan skiftes heste, afleveres beskeder og søges skjul.
 
@@ -16,8 +16,8 @@ Ordenens folk rejser på vejruterne som almindelige handelsfolk, karavanevagter 
 | **Sydvejen** | Cartheero – Syden – nomadestammerne | Under Sandets Sang | Dadel-, korn- og krydderikaravaner |
 | **Kystvejen** | Cartheero – kystbyerne | Under Sandets Sang | Kryddervarer og fiskehandel |
 | **Vestvejen** | Cartheero – vestgrænsen – Paest og Dorenburg | 34 EH | Krukker, tekstiler og slavekaravanernes egne veje |
-| **Kamirrvejen** | Zara’bashs nordvestgrænse – Kamirrs bystater – Kaarn | Efter 30 EH | Den Mørke Storms karavaner |
-| **Tværvejen** | Kaarn – Kamirrs vestlige bystater – Dorenburg | 34 EH | Den Mørke Storms handel mellem kompagniets to huse |
+| **Kamirrvejen** | Zara’bashs nordvestgrænse – Kamirrs bystater – Kaarn | Efter 30 EH | Handelskompagniets karavaner |
+| **Tværvejen** | Kaarn – Kamirrs vestlige bystater – Dorenburg | 34 EH | Handelskompagniets handel mellem dets to huse |
 
 ## Sydvejen
 
@@ -29,7 +29,7 @@ Holdepunkter: [[Halima bint Nasr]]s karavaneseraj, [[Amira]]s oase og [[Barakats
 
 ## Kystvejen
 
-Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor Vingen [[Samira bint Aziz]] brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
+Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor en Vinge brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
 
 %% kun-arrangør %%
 Holdepunkter: kystbyernes havne, hvor [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] tager last og unger om bord.
@@ -45,7 +45,7 @@ Holdepunkter: [[Hassan Ibn Omar]]s værksted ved grænsen, [[Saltkælderen]] i P
 
 ## Kamirrvejen
 
-Kamirrvejen er landvejen fra Zara’bash gennem Kamirr til Kaarn i Narabond. Den blev taget i brug efter 30 EH, da Den Mørke Storms hovedkontor gjorde det nødvendigt at kunne nå Kaarn uden om Kamirrhavet, når piraterne gjorde søvejen for farlig.
+Kamirrvejen er landvejen fra Zara’bash gennem Kamirr til Kaarn i Narabond. Den blev taget i brug efter 30 EH, da kompagniets hovedkontor gjorde det nødvendigt at kunne nå Kaarn uden om Kamirrhavet, når piraterne gjorde søvejen for farlig.
 
 Kamirrvejen er ordenens farligste rute. Kamirrs bystater er fjendtlige over for Zara’bash, hver bystat kræver told af de rejsende, og mange af de folk, der driver vejene, står i forbindelse med piraterne. Zarabere vækker mistanke, og ordenen sender derfor helst medlemmer af andre folkeslag ad ruten.
 
@@ -55,7 +55,10 @@ Ordenen har ingen Calandra, ingen reder og kun få faste folk i Kamirr. Ruten ho
 
 ## Tværvejen
 
-Tværvejen forbinder Den Mørke Storms to huse i Kaarn og Dorenburg over land gennem Kamirrs vestlige bystater. Den blev taget i brug i 34 EH, da kompagniet åbnede handelshuset i Dorenburg. Ruten er først og fremmest kompagniets egen handelsvej, og ordenen bruger den kun i ly af kompagniets karavaner.
+Tværvejen forbinder handelskompagniets to huse i Kaarn og Dorenburg over land gennem Kamirrs vestlige bystater. Den blev taget i brug i 34 EH, da kompagniet åbnede handelshuset i Dorenburg. Ruten er først og fremmest kompagniets egen handelsvej, og ordenen bruger den kun i ly af kompagniets karavaner.
+
+> [!sandhed]- Spillederviden
+> Handelskompagniet er Den Mørke Storms Handelskompagni, som [[Baldrian Barldesh]] er medejer af. Vingen på Kystvejen under Sandets Sang var [[Samira bint Aziz]].
 
 ## Se også
 
