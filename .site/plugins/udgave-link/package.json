@@ -1,0 +1,32 @@
+{
+  "name": "udgave-link",
+  "version": "1.0.0",
+  "description": "Link i sidepanelet mellem den offentlige udgave og arrangørudgaven.",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/components/index.js" },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "peerDependencies": { "preact": "^10.0.0" },
+  "quartz": {
+    "name": "udgave-link",
+    "displayName": "Udgave-link",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 60,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "UdgaveLink": {
+        "displayName": "Udgave-link",
+        "defaultPosition": "left",
+        "defaultPriority": 60
+      }
+    }
+  }
+}
