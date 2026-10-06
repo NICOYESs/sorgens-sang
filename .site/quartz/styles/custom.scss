@@ -25,3 +25,12 @@ article table td {
   border-bottom: 1px solid var(--lightgray);
   padding: 0.3rem 0.6rem;
 }
+
+// Mobil: mindre sidetitel, så den ikke fylder fire linjer i toppen
+@media all and #{$mobile} {
+  .page-title {
+    font-size: 1.15rem;
+    line-height: 1.2;
+    margin: 0;
+  }
+}

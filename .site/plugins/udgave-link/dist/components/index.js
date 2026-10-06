@@ -22,6 +22,18 @@ const css = `
   border-color: var(--secondary);
   color: var(--secondary);
 }
+@media (max-width: 800px) {
+  .udgave-link {
+    margin-top: 0;
+    margin-left: 0.3rem;
+  }
+  .udgave-link a {
+    padding: 0.3rem 0.45rem;
+  }
+  .udgave-link .tekst {
+    display: none;
+  }
+}
 `
 
 export const UdgaveLink = (opts = {}) => {
@@ -30,7 +42,16 @@ export const UdgaveLink = (opts = {}) => {
     const url = fuld ? opts.offentligUrl : opts.arrangoerUrl
     const tekst = fuld ? opts.offentligTekst || "Se den offentlige udgave" : opts.arrangoerTekst || "Arrangøradgang"
     if (!url) return null
-    return h("div", { class: "udgave-link" }, h("a", { href: url, rel: "noopener" }, (fuld ? "← " : "🔒 ") + tekst))
+    return h(
+      "div",
+      { class: "udgave-link" },
+      h(
+        "a",
+        { href: url, rel: "noopener", title: tekst, "aria-label": tekst },
+        h("span", { class: "ikon" }, fuld ? "←" : "🔒"),
+        h("span", { class: "tekst" }, tekst),
+      ),
+    )
   }
   Component.css = css
   return Component

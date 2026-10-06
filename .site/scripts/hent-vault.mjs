@@ -172,6 +172,19 @@ if (existsSync(join(content, "Forside.md"))) {
   console.warn("Advarsel: Forside.md blev ikke fundet i vaulten")
 }
 
+// Quartz viser selv notens titel øverst. En første overskrift med samme navn fjernes,
+// så titlen ikke står to gange.
+for (const sti of alleFiler(content).filter((s) => s.endsWith(".md") && !s.endsWith(".excalidraw.md"))) {
+  const tekst = readFileSync(sti, "utf8")
+  const fm = frontmatter(tekst)
+  const titel = (fm.match(/^title:\s*(.+?)\s*$/m)?.[1] ?? basename(sti, ".md")).trim()
+  const krop = fm ? tekst.indexOf("\n---", 4) + 4 : 0
+  const m = tekst.slice(krop).match(/^\s*# (.+?)\s*\n/)
+  if (m && m[1].trim() === titel) {
+    writeFileSync(sti, tekst.slice(0, krop) + tekst.slice(krop).replace(m[0], "\n"))
+  }
+}
+
 // Sidens titel og adresse afhænger af udgaven.
 const config = resolve("quartz.config.yaml")
 let cfg = readFileSync(config, "utf8")
