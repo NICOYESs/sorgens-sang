@@ -33,6 +33,8 @@ Denne vault samler historien om det hemmelige broderskab, der blev grundlagt i [
 **Personer**
 - [[Personer i ordenen]]: oversigt over alle personer og deres forbindelser
 - [[Nadim Ibn Rashad al-Calandri]]: grundlæggeren og den første Calandra
+- [[Samira bint Aziz]]: Vingen, der bar Nadims sidste besked
+- [[Yunus Ibn Bakr]]: Stormkrage i Cartheeros havnekvarter, død ca. 15 EH
 
 **Verden**
 - [[Hajdi Ibn Uhra]]

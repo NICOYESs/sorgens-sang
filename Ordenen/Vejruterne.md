@@ -29,7 +29,7 @@ Holdepunkter: [[Halima bint Nasr]]s karavaneseraj, [[Amira]]s oase og [[Barakats
 
 ## Kystvejen
 
-Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor en Vinge brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
+Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor Vingen [[Samira bint Aziz]] brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
 
 %% kun-arrangør %%
 Holdepunkter: kystbyernes havne, hvor [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] tager last og unger om bord.
@@ -58,7 +58,7 @@ Ordenen har ingen Calandra, ingen reder og kun få faste folk i Kamirr. Ruten ho
 Tværvejen forbinder handelskompagniets to huse i Kaarn og Dorenburg over land gennem Kamirrs vestlige bystater. Den blev taget i brug i 34 EH, da kompagniet åbnede handelshuset i Dorenburg. Ruten er først og fremmest kompagniets egen handelsvej, og ordenen bruger den kun i ly af kompagniets karavaner.
 
 > [!sandhed]- Spillederviden
-> Handelskompagniet er Den Mørke Storms Handelskompagni, som [[Baldrian Barldesh]] er medejer af. Vingen på Kystvejen under Sandets Sang var [[Samira bint Aziz]].
+> Handelskompagniet er Den Mørke Storms Handelskompagni, som [[Baldrian Barldesh]] er medejer af.
 
 ## Se også
 

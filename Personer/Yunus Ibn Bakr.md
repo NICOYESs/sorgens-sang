@@ -1,7 +1,6 @@
 ---
 aliases: [Yunus, Vandbæreren]
 tags: [ssb/person, ssb/resume]
-spillederviden: true
 ---
 
 # Yunus Ibn Bakr
@@ -21,7 +20,10 @@ spillederviden: true
 
 Yunus var vandbærer i Cartheeros havnekvarter og ledte i Sorgens Sangs første årtier ordenens Krager dér. Hans arbejde gav ham adgang til både lagerhuse, værksteder og fattigkvarterets gårde, og hans gruppe holdt især øje med toldhuset og skibene i havnen.
 
-Han var kendt for at sætte større pris på Spurve, der kunne tie, end på Spurve, der kunne løbe, og flere af havnekvarterets senere medlemmer begyndte hos ham. Blandt dem var [[Baldrian Barldesh]], som han tog som Spurv omkring 5 EH og optog som Krage omkring 13 EH.
+Han var kendt for at sætte større pris på Spurve, der kunne tie, end på Spurve, der kunne løbe, og flere af havnekvarterets senere medlemmer begyndte hos ham.
+%% kun-arrangør %%
+Blandt dem var [[Baldrian Barldesh]], som han tog som Spurv omkring 5 EH og optog som Krage omkring 13 EH.
+%% /kun-arrangør %%
 
 Yunus døde omkring 15 EH, da byvagten ryddede en række lagerhuse i havnekvarteret. Hvordan byvagten vidste, hvor den skulle lede, blev aldrig opklaret. Havnekvarterets Krager blev derefter spredt mellem andre grupper.
 
