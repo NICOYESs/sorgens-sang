@@ -22,6 +22,24 @@ Ved hver bygning kopierer `.site/scripts/hent-vault.mjs` vaulten ind i `.site/co
 | Build command | `npx quartz plugin install && node scripts/dansk.mjs && node scripts/hent-vault.mjs && npx quartz build` |
 | Build output directory | `public` |
 
+## To udgaver
+
+Samme vault bygges som to sider. Udgaven vælges med miljøvariablen `SSB_UDGAVE` i Cloudflare.
+
+| Udgave | `SSB_UDGAVE` | Indhold | Adgang |
+|---|---|---|---|
+| Offentlig | ikke sat, eller `offentlig` | Wiki og myter. Al spillederviden er fjernet ved bygningen | Alle |
+| Arrangører | `fuld` | Alt, også Sandheden og sandhed-boksene | Cloudflare Access, kun e-mails på listen |
+
+Den offentlige udgave fjerner:
+
+- mappen Sandheden og noter med tagget `ssb/sandhed` eller `spillederviden: true` i frontmatter
+- alle `[!sandhed]`-bokse
+- alt mellem `%% kun-arrangør %%` og `%% /kun-arrangør %%`
+- listepunkter, tabelrækker og personkort på kortet, der linker til en fjernet note
+
+`SSB_BASEURL` kan sættes til sidens adresse, fx `sorgens-sang-arrangoer.pages.dev`.
+
 ## Opdatering
 
 Ret noterne i Obsidian og synkronisér med Git-pluginet (Obsidian Git). Når ændringerne er på GitHub, bygger Cloudflare siden igen af sig selv.

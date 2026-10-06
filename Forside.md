@@ -6,7 +6,7 @@ tags: [ssb]
 
 Denne vault samler historien om det hemmelige broderskab, der blev grundlagt i [Zara’bash](https://niraham.dk/riger/zarabash/) af vesir [[Nadim Ibn Rashad al-Calandri]] under sultan [[Hajdi Ibn Uhra]]. Det begyndte som **[[Sandets Sangs Broderskab]]** og lever i 36 EH videre som **[[Sorgens Sangs Broderskab]]**. Begge er Kasmani-ordener.
 
-## Vaultens tre lag
+## Vaultens lag
 
 > [!info] Wiki: det kendte
 > Opslagsartikler skrevet i samme stil som niraham.dk. De beskriver det, en lærd og velinformeret udenforstående kan vide, med de forbehold og huller, der hører til.
@@ -56,10 +56,12 @@ Denne vault samler historien om det hemmelige broderskab, der blev grundlagt i [
 - [[Den Tomme Volière]]: overleveringen om Nadims sidste nat
 - [[Den Skjulte Calandra]]: troen på, at én Calandra står over de andre
 
+%% kun-arrangør %%
 **Sandheden** (spillederviden)
 - [[Nadims fald]]: hvad der skete i 1465 EJ
 - [[De mange grene]]: hvorfor ordenen fik flere Calandraer
 - [[Myte og sandhed]]: oversigt over alle tre lag
+%% /kun-arrangør %%
 
 ## Tidsregning
 
