@@ -47,7 +47,7 @@ Sorgens Sangs Broderskab hævder fortsat at arbejde for dem, der ikke selv har a
 
 Ordenens mål er dog ikke længere kun at føre sandheden frem. Den ønsker også at opbygge magt nok til at handle uden om de myndigheder, som den ikke længere stoler på.
 
-Dette gør broderskabet mere farligt end dets forgænger. Det er ikke blot et skjult informationsnetværk, men en egentlig undergrundsorden med egne ruter, egne ledere, egne skjulesteder og egne økonomiske interesser. Ordenen finansierer en stor del af sit virke ved at påtage sig opgaver for udenforstående mod betaling (se [[Opgaver og betaling]]).
+Dette gør broderskabet mere farligt end dets forgænger. Det er ikke blot et skjult informationsnetværk, men en egentlig undergrundsorden med egne ruter, egne ledere, egne skjulesteder og egne økonomiske interesser. Ordenen finansierer sit virke ved at påtage sig opgaver for udenforstående mod betaling, ved tyveri fra korrupte embedsmænd, slavehandlere og grådige handelshuse og ved at hvidvaske udbyttet gennem forretninger, som dens folk driver (se [[Opgaver og betaling]]).
 
 ## Organisation efter Nadim
 

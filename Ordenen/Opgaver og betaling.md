@@ -1,11 +1,31 @@
 ---
-aliases: [Betaling, Bestilte opgaver, Ordenens tiende]
+aliases: [Betaling, Bestilte opgaver, Ordenens tiende, Indtægter, Hvidvask]
 tags: [ssb/wiki, ssb/orden]
 ---
 
 # Opgaver og betaling
 
-[[Sorgens Sangs Broderskab]] påtager sig opgaver for udenforstående mod betaling. De bestilte opgaver er en vigtig indtægtskilde og finansierer en stor del af ordenens egne opgaver, herunder [[Rederne|rederne]], frikøb af slaver og bestikkelse af embedsmænd.
+[[Sorgens Sangs Broderskab]] har brug for penge. [[Rederne]], frikøb af slaver, bestikkelse af embedsmænd, falske papirer og rejser over havet koster, og ordenen har ingen fast indtægt. Den skaffer pengene på flere måder, og de fleste af dem er ulovlige.
+
+## Indtægter
+
+- **Bestilte opgaver.** Ordenen påtager sig opgaver for udenforstående mod betaling. Det er den mest regelmæssige indtægt og er beskrevet nedenfor.
+- **Tyveri og videresalg.** Stormkragerne tager fra dem, ordenen anser for at have tjent deres formuer på andres bekostning: korrupte embedsmænd, slavehandlere og grådige handelshuse. Værdierne sælges sjældent i samme by, som de er taget i, men føres ad ordenens ruter og sælges videre langt derfra.
+- **Hvidvask gennem forretninger.** Pengene fra tyveri og bestilte opgaver føres ind i forretninger, som ordenens folk ejer eller arbejder i, for eksempel handelshuse, værksteder og karavaner. Her bogføres de som almindelig handel, så de kan bruges åbent.
+- **Gaver.** Velhavende medlemmer og velyndere giver af egen lomme, og befriede, der senere er kommet til noget, betaler ofte tilbage, hvad deres frihed kostede.
+
+Af udbyttet fra et tyveri tilfalder en tiende som regel ordenen. Resten deles i gruppen, og det sker, at noget går tilbage til dem, der blev frarøvet det i første omgang.
+
+## Opgavernes art
+
+Ordenen påtager sig mange slags opgaver. De mest almindelige er:
+
+- at finde og skaffe ting, for eksempel dokumenter, arvestykker, beviser eller varer, der er forsvundet eller holdes tilbage
+- at finde personer, der er forsvundet, solgt eller efterlyst, og bringe besked om dem eller bringe dem tilbage
+- at skaffe oplysninger om gæld, alliancer, hemmeligheder og andres planer
+- at fjerne, ændre eller forfalske dokumenter
+- at advare, beskytte eller føre en person bort, før det er for sent
+- at befri slaver eller købe dem fri
 
 ## Kontakt
 
@@ -20,9 +40,17 @@ Ordenen fastsætter ikke selv prisen for en opgave. Den, der bestiller opgaven, 
 
 Ordenen kan afvise en opgave, hvis beløbet er for lille i forhold til opgaven, eller hvis formålet strider mod ordenens formål. Opgaver, der rammer slaver, fattige eller ordenens egne, afvises altid. Det samme gælder opgaver, der ville tjene slavehandlere eller deres beskyttere.
 
+## Sager uden betaling
+
+Er en sag god og vigtig efter ordenens skøn, kan opgaven udføres uden betaling eller for et symbolsk beløb. Det gælder især sager, hvor fattige, slaver eller gældsbundne har lidt en uret, som ingen myndighed vil rette.
+
+Vingen giver sagen videre til områdets [[Calandraen|Calandra]] med en anbefaling, og Calandraen afgør, om ordenen påtager sig den. Stormkragen og gruppen får da deres andel af ordenens kasse, hvis der er råd til det.
+
+Den, der får hjælp uden at betale, skylder ikke ordenen penge, men ordenen glemmer det ikke. Det sker, at en Vinge senere beder om en tjeneste: husly for en nat, en oplysning eller en dør, der står åben.
+
 ## Fordeling
 
-Når en opgave er godkendt, fordeles betalingen således:
+Når en betalt opgave er godkendt, fordeles betalingen således:
 
 | Modtager | Andel | For |
 |---|---|---|
@@ -46,4 +74,10 @@ En købmand ønsker et dokument fjernet fra et konkurrerende handelshus og byder
 
 ## Betydning
 
-Bestilte opgaver kan være meget lukrative for en dygtig Stormkrage og hans Krager. Det har gjort ordenen rigere, end Sandets Sang nogensinde var, men også skabt spændinger. Stormkrager, der tager opgaver for pengenes skyld frem for ordenens skyld, regnes som regel for Ådselkrager, og grådighed er en af de hyppigste grunde til afsættelse (se [[Titler og rang]]).
+Bestilte opgaver og tyveri kan være meget lukrative for en dygtig Stormkrage og hans Krager. Det har gjort ordenen rigere, end Sandets Sang nogensinde var, men også skabt spændinger. Stormkrager, der arbejder for pengenes skyld frem for ordenens skyld, regnes som regel for Ådselkrager, og grådighed er en af de hyppigste grunde til afsættelse (se [[Titler og rang]]).
+
+> [!sandhed]- Spillederviden: hvor pengene vaskes
+> - [[Zainab bint Malik]]s handelshus i Cartheero er ordenens vigtigste sted til hvidvask. Hendes regnskaber skjuler penge, der flyttes for ordenen, og tyvekoster sælges videre som almindelige varer i hendes karavaner.
+> - [[Aurelio Danza]] sælger tyvegods på Paests sorte markeder, også til Kamirrs pirater. Det giver penge, men gør ordenen afhængig af en smugler.
+> - [[Baldrian Barldesh]] flytter ordenens penge over havet blandt Den Mørke Storms varer. Kompagniet er ikke en del af ordenen.
+> - Hvem der har fået hjælp uden at betale, og hvad de skylder, er et godt sted at hente tråde til spil.
