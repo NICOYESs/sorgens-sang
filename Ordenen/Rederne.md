@@ -29,6 +29,7 @@ Ruterne, som unger føres ad mellem rederne, kaldes **trækruterne** efter fugle
 - **Vesttrækket** over Zara’bashs vestgrænse til og fra Tharkien, oprettet i 34 EH.
 - **Havtrækket** over Kamirrhavet til Narabond og Tharkien med selvstændige skippere.
 
+%% kun-arrangør %%
 ## Kendte reder
 
 | Rede | Sted | Rugere |
@@ -41,5 +42,6 @@ Ruterne, som unger føres ad mellem rederne, kaldes **trækruterne** efter fugle
 | Voss’ pakhus | Kaarn, Narabond | [[Henrike Voss]] |
 | [[Saltkælderen]] | Paest, Tharkien | [[Aurelio Danza]] |
 | *Morgenstjernen* og *Sandsvalen* | Kamirrhavet | [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] |
+%% /kun-arrangør %%
 
 Se også [[Vejruterne]] og [[Ordenens tegn]].

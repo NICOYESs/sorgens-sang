@@ -1,6 +1,7 @@
 ---
 aliases: [Mahmoud, Bogbinderen]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Mahmoud al-Warraq

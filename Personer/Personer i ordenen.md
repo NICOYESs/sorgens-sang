@@ -1,5 +1,6 @@
 ---
 tags: [ssb/person, ssb/oversigt]
+spillederviden: true
 ---
 
 # Personer i ordenen

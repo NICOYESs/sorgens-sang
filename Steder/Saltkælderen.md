@@ -1,6 +1,7 @@
 ---
 aliases: [Saltkælderen]
 tags: [ssb/sted, ssb/rede, ssb/tharkien]
+spillederviden: true
 ---
 
 # Saltkælderen

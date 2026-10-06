@@ -1,6 +1,7 @@
 ---
 aliases: [Karim]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Karim Ibn Walid

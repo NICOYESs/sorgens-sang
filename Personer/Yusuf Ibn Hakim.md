@@ -1,6 +1,7 @@
 ---
 aliases: [Yusuf]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Yusuf Ibn Hakim

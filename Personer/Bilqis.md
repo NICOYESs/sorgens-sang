@@ -1,6 +1,7 @@
 ---
 aliases: [Sydsangen, Hennamaleren]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Bilqis

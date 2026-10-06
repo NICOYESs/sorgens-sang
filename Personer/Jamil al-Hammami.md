@@ -1,6 +1,7 @@
 ---
 aliases: [Jamil, Badehusejeren, Stemmen i Cartheero]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Jamil al-Hammami

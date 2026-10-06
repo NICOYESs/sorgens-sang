@@ -1,6 +1,7 @@
 ---
 aliases: [Idris]
 tags: [ssb/person, ssb/resume, ssb/sø]
+spillederviden: true
 ---
 
 # Idris

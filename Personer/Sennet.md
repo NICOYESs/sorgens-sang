@@ -1,6 +1,7 @@
 ---
 aliases: [Sennet]
 tags: [ssb/person, ssb/resume, ssb/tharkien]
+spillederviden: true
 ---
 
 # Sennet

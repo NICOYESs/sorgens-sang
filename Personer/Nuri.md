@@ -1,6 +1,7 @@
 ---
 aliases: [Nuri]
 tags: [ssb/person, ssb/resume, ssb/sø]
+spillederviden: true
 ---
 
 # Nuri

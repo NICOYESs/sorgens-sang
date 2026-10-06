@@ -1,6 +1,7 @@
 ---
 aliases: [Musa]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Musa Ibn Khalil

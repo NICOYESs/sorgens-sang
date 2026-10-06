@@ -1,6 +1,7 @@
 ---
 aliases: [Zainab]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Zainab bint Malik

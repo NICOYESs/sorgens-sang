@@ -1,6 +1,7 @@
 ---
 aliases: [Daddellunden]
 tags: [ssb/sted, ssb/rede]
+spillederviden: true
 ---
 
 # Barakats Daddellund

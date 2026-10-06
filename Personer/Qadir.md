@@ -1,6 +1,7 @@
 ---
 aliases: [Qadir]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Qadir

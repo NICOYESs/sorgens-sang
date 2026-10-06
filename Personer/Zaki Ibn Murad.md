@@ -1,6 +1,7 @@
 ---
 aliases: [Zaki, Fuglefængeren]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Zaki Ibn Murad

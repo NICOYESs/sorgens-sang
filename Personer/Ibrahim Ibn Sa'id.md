@@ -1,6 +1,7 @@
 ---
 aliases: [Ibrahim, Sandløberen]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Ibrahim Ibn Sa'id

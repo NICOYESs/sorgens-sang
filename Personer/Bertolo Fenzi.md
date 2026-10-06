@@ -1,6 +1,7 @@
 ---
 aliases: [Bertolo]
 tags: [ssb/person, ssb/resume, ssb/tharkien]
+spillederviden: true
 ---
 
 # Bertolo Fenzi

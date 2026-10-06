@@ -1,6 +1,7 @@
 ---
 aliases: [Marwan]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Marwan Ibn Talal

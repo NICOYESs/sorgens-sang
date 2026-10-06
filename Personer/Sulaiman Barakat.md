@@ -1,6 +1,7 @@
 ---
 aliases: [Sulaiman]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Sulaiman Barakat

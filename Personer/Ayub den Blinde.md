@@ -1,6 +1,7 @@
 ---
 aliases: [Ayub, Den Blinde]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Ayub den Blinde

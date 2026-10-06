@@ -1,6 +1,7 @@
 ---
 aliases: [Hamid]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Hamid

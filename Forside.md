@@ -39,16 +39,18 @@ Denne vault samler historien om det hemmelige broderskab, der blev grundlagt i [
 - [[Ahriman Ibn Hajdi Ibn Uhra]]
 - [[Al-Hazifs Broderskab]]
 
+%% kun-arrangør %%
 **Steder**
 - [[Det Tavse Tempel]]
 - [[Barakats Daddellund]]
 - [[Saltkælderen]]
+%% /kun-arrangør %%
 
 **Historie**
 - [[Tidslinje]]
 
 **Kort**
-- [[SSB-kort.excalidraw|Kort over Niraham]]: steder, ruter og personer. Klik på nåle, ruter og personkort for at åbne noterne.
+- [[SSB-kort.excalidraw|Kort over Niraham]]: hvor ordenen virker. Klik på kortet for at åbne noterne.
 
 ![[SSB-kort.excalidraw]]
 

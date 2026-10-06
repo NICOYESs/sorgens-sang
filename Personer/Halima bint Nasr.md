@@ -1,6 +1,7 @@
 ---
 aliases: [Halima]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Halima bint Nasr

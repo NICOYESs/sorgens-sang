@@ -1,6 +1,7 @@
 ---
 aliases: [Tariq]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Tariq al-Jamal

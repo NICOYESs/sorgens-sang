@@ -1,6 +1,7 @@
 ---
 aliases: [Qasim]
 tags: [ssb/person, ssb/resume, ssb/sandhed]
+spillederviden: true
 ---
 
 # Qasim Ibn Dawud

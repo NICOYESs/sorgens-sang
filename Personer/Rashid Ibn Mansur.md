@@ -1,6 +1,7 @@
 ---
 aliases: [Rashid, Kniven]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Rashid Ibn Mansur

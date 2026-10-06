@@ -1,6 +1,7 @@
 ---
 aliases: [Leyla]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Leyla bint Qasim

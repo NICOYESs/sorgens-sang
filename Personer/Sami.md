@@ -1,6 +1,7 @@
 ---
 aliases: [Sami vandsælgeren]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Sami

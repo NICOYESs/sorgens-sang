@@ -1,6 +1,7 @@
 ---
 aliases: [Cornelia]
 tags: [ssb/person, ssb/resume, ssb/sø, ssb/tharkien]
+spillederviden: true
 ---
 
 # Cornelia Vasto

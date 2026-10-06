@@ -1,6 +1,7 @@
 ---
 aliases: [Saffiya, Umm Saffiya]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Saffiya bint Harun

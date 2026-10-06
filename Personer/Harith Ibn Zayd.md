@@ -1,6 +1,7 @@
 ---
 aliases: [Harith]
 tags: [ssb/person, ssb/resume, ssb/sø]
+spillederviden: true
 ---
 
 # Harith Ibn Zayd

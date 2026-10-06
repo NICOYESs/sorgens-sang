@@ -23,19 +23,25 @@ Ordenens folk rejser på vejruterne som almindelige handelsfolk, karavanevagter 
 
 Ordenens ældste rute. Den følger karavanevejene fra Cartheero mod syd og ender hos nomadestammerne. Ruten bruges både til beskeder og som Sydtrækket for unger.
 
+%% kun-arrangør %%
 Holdepunkter: [[Halima bint Nasr]]s karavaneseraj, [[Amira]]s oase og [[Barakats Daddellund]]. Vingen [[Karim Ibn Walid]] rider ruten med beskeder, og [[Tariq al-Jamal]]s gruppe holder den åben.
+%% /kun-arrangør %%
 
 ## Kystvejen
 
 Ruten mellem Cartheero og kystbyerne går tilbage til Sandets Sang, hvor Vingen [[Samira bint Aziz]] brugte sin fars krydderivarer som dække. I dag bærer Vingerne ad den breve mellem [[Grenene|grenene]] i Cartheero og kystbyerne, og den fører videre til de havne, hvor ordenens skippere lægger til.
 
+%% kun-arrangør %%
 Holdepunkter: kystbyernes havne, hvor [[Dalila bint Yasir]] og [[Harith Ibn Zayd]] tager last og unger om bord.
+%% /kun-arrangør %%
 
 ## Vestvejen
 
 Vestvejen blev oprettet i 34 EH i forbindelse med udvidelsen til Tharkien. Den følger karavanevejene over Zara’bashs vestgrænse og deler sig på den tharkienske side mod Paest og Dorenburg. Ruten bruges også som Vesttrækket.
 
+%% kun-arrangør %%
 Holdepunkter: [[Hassan Ibn Omar]]s værksted ved grænsen, [[Saltkælderen]] i Paest og Den Mørke Storms handelshus i Dorenburg, hvor Baldrian kan modtage beskeder under dække af kompagniets handel. Ruten ledes af [[Nasir Ibn Fahd]].
+%% /kun-arrangør %%
 
 ## Kamirrvejen
 

@@ -1,6 +1,7 @@
 ---
 aliases: [Yunus, Vandbæreren]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Yunus Ibn Bakr

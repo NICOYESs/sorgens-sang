@@ -1,6 +1,7 @@
 ---
 aliases: [Nasir]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Nasir Ibn Fahd

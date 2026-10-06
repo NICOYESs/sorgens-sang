@@ -1,6 +1,7 @@
 ---
 aliases: [Jabir]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Jabir al-Sahrawi

@@ -1,6 +1,7 @@
 ---
 aliases: [Amira]
 tags: [ssb/person, ssb/resume, ssb/land]
+spillederviden: true
 ---
 
 # Amira

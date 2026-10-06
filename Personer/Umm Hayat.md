@@ -1,6 +1,7 @@
 ---
 aliases: [Umm Hayat, Tamariskkredsen]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Umm Hayat

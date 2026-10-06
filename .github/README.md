@@ -36,7 +36,10 @@ Den offentlige udgave fjerner:
 - mappen Sandheden og noter med tagget `ssb/sandhed` eller `spillederviden: true` i frontmatter
 - alle `[!sandhed]`-bokse
 - alt mellem `%% kun-arrangør %%` og `%% /kun-arrangør %%`
-- listepunkter, tabelrækker og personkort på kortet, der linker til en fjernet note
+- listepunkter, tabelrækker og personkort på kortet, der linker til en fjernet note, og henvisninger som "(se [[Fjernet note]])"
+- tomme mapper
+
+Personnoter og steder er markeret med `spillederviden: true`, undtagen Nadim, Samira og Baldrian. En note med `erstatter: X` i frontmatter træder i stedet for noten X på den offentlige side og springes over på arrangørsiden. Det bruges til `Kort/SSB-kort-offentligt.excalidraw.md`, som kun viser ordenens områder.
 
 `SSB_BASEURL` kan sættes til sidens adresse, fx `sorgens-sang-arrangoer.pages.dev`.
 

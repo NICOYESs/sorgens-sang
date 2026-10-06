@@ -35,4 +35,6 @@ En Calandra kan ikke afsættes af andre Calandraer. En Calandra, der mister omr�
 
 Et medlem kan selv nedlægge en titel eller forlade ordenen. Det betragtes ikke som en skam, så længe vedkommende tier om det, han eller hun ved. Et medlem kan også afslå en titel, som det er sket med Calandra-titlen over området ved Kamirrhavet (se [[Sorgens Sangs Broderskab#Udvidelsen over Kamirrhavet]]).
 
+%% kun-arrangør %%
 Se også [[Personer i ordenen]] for de enkelte medlemmers titler gennem tiden.
+%% /kun-arrangør %%

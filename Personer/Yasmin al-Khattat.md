@@ -1,6 +1,7 @@
 ---
 aliases: [Yasmin, Kalligrafen]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Yasmin al-Khattat

@@ -1,6 +1,7 @@
 ---
 aliases: [Henrike]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Henrike Voss

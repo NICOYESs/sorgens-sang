@@ -1,6 +1,7 @@
 ---
 aliases: [Rania, Benbrættersken]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Rania

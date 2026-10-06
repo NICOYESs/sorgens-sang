@@ -1,6 +1,7 @@
 ---
 aliases: [Zahra]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Zahra bint Karim

@@ -9,11 +9,14 @@
 //                         - alt mellem %% kun-arrangør %% og %% /kun-arrangør %%
 //                         - listepunkter og tabelrækker, der linker til en fjernet note
 //                         - personkort på kortet, der linker til en fjernet note
+//                         En note med "erstatter: X" i frontmatter træder i stedet for noten X i samme mappe
+//                         (bruges til det offentlige kort).
 //   fuld                  Alt kommer med. Bruges til arrangørsiden bag Cloudflare Access.
+//                         Noter med "erstatter:" i frontmatter springes over.
 //
 // SSB_BASEURL kan sættes til sidens adresse (fx sorgens-sang-arrangoer.pages.dev).
 import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, renameSync, rmSync, statSync, writeFileSync } from "node:fs"
-import { basename, join, relative, resolve } from "node:path"
+import { basename, dirname, join, relative, resolve } from "node:path"
 
 const udgave = (process.env.SSB_UDGAVE || "offentlig").trim().toLowerCase()
 const fuld = udgave === "fuld"
@@ -43,6 +46,22 @@ function alleFiler(mappe) {
 
 const frontmatter = (tekst) => (tekst.startsWith("---\n") ? tekst.slice(4, tekst.indexOf("\n---", 4)) : "")
 
+// Offentlige stedfortrædere (fx det offentlige kort)
+const stedfortraedere = []
+for (const sti of alleFiler(content).filter((s) => s.endsWith(".md"))) {
+  const m = frontmatter(readFileSync(sti, "utf8")).match(/^erstatter:\s*(.+?)\s*$/m)
+  if (m) stedfortraedere.push([sti, join(dirname(sti), m[1].replace(/\.md$/, "") + ".md")])
+}
+for (const [sti, maal] of stedfortraedere) {
+  if (fuld) {
+    rmSync(sti)
+  } else {
+    const tekst = readFileSync(sti, "utf8").replace(/^erstatter:.*\n/m, "")
+    rmSync(sti)
+    writeFileSync(maal, tekst)
+  }
+}
+
 let fjernet = []
 if (!fuld) {
   // 1. Find de noter, der er spillederviden i sig selv.
@@ -61,8 +80,11 @@ if (!fuld) {
     rmSync(sti)
     fjernet.push(rel)
   }
-  const sandheden = join(content, "Sandheden")
-  if (existsSync(sandheden) && alleFiler(sandheden).length === 0) rmSync(sandheden, { recursive: true })
+  // Mapper, der står tomme tilbage, fjernes
+  for (const navn of readdirSync(content)) {
+    const sti = join(content, navn)
+    if (statSync(sti).isDirectory() && alleFiler(sti).length === 0) rmSync(sti, { recursive: true })
+  }
 
   const linkMaal = (inde) => inde.split("|")[0].split("#")[0].replace(/\\$/, "").trim().toLowerCase()
   const linkerTilFjernet = (linje) =>
@@ -74,6 +96,8 @@ if (!fuld) {
     tekst = tekst.replace(/%%\s*kun-arrangør\s*%%[\s\S]*?%%\s*\/kun-arrangør\s*%%\n?/g, "")
     // Obsidian-kommentarer
     tekst = tekst.replace(/%%[\s\S]*?%%/g, "")
+    // Henvisninger som "(se [[Fjernet note]])" fjernes helt
+    tekst = tekst.replace(/\s*\(se \[\[([^\]]+)\]\]\)/g, (hele, inde) => (navne.has(linkMaal(inde)) ? "" : hele))
     const ud = []
     const linjer = tekst.split("\n")
     for (let i = 0; i < linjer.length; i++) {

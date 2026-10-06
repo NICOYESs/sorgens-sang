@@ -1,6 +1,7 @@
 ---
 aliases: [Det Tavse Tempel, Nimars tempel]
 tags: [ssb/sted, ssb/rede]
+spillederviden: true
 ---
 
 # Det Tavse Tempel

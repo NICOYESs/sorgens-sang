@@ -1,6 +1,7 @@
 ---
 aliases: [Ottilie]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Ottilie Brandt

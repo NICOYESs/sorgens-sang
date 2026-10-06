@@ -1,6 +1,7 @@
 ---
 aliases: [Faris]
 tags: [ssb/person, ssb/resume]
+spillederviden: true
 ---
 
 # Faris
