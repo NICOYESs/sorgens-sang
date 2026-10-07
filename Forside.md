@@ -46,6 +46,7 @@ Denne vault samler historien om det hemmelige broderskab, der blev grundlagt i [
 - [[Det Tavse Tempel]]
 - [[Barakats Daddellund]]
 - [[Saltkælderen]]
+- [[Sorte markeder]]: hælere og sorte markeder i alle ordenens områder
 %% /kun-arrangør %%
 
 **Historie**

@@ -36,6 +36,7 @@ Han har sin Calandras opbakning og kan derfor ikke afsættes af andre. Hvem Kyst
 - [[Harith Ibn Zayd]]: fører unger fra hans angreb over havet
 - [[Rania]]: behandler hans sårede
 - [[Baldrian Barldesh]]: anser hans afslag af Calandra-titlen for svaghed
+- [[Lavvandsmarkedet]]: hans gruppe sælger bytte fra slaveskibene her
 
 > [!sandhed]- Spillederviden
 > Rashid mener, at ordenen var stærkere under én Calandra, og har talt om det med andre Stormkrager. Se [[De mange grene#Tråde til spil]].

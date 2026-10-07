@@ -30,3 +30,4 @@ Han blev Stormkrage kort efter og ledede i 34 EH ordenens udvidelse til lands mo
 - [[Musa Ibn Khalil]]: hans kilde blandt karavanevagterne
 - [[Aurelio Danza]]: hans forbindelse i Paest
 - [[Sennet]]: hans gruppe fører hendes flygtninge ud af Tharkien
+- [[Toldstensmarkedet]]: han holder vejen over grænsen åben

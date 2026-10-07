@@ -30,6 +30,7 @@ Hun er ikke født ind i troen og er en af de ældste blandt ordenens medlemmer o
 - [[Baldrian Barldesh]]: optog hende i ordenen
 - [[Ottilie Brandt]]: Krage i Kaarn
 - [[Dalila bint Yasir]] og [[Harith Ibn Zayd]]: lægger unger i land ved hendes pakhus
+- [[Bjærgningsauktionerne]]: hun kender sin afdøde mands skibe
 
 > [!sandhed]- Spillederviden
 > - Omkring 35 EH valgte Calandraerne Henrike som Calandra over Kamirrhavet. [[Saffiya bint Harun|Sangen i Cartheero]] og [[Bilqis|Sydsangen]] stemte for. [[Yusuf Ibn Hakim|Kystsangen]] stemte imod, fordi hun er ny i troen.

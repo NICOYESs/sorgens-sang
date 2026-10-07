@@ -30,3 +30,4 @@ Hun er ordenens vigtigste kilde i Tharkien og har derfor flere gange afslået at
 - [[Aurelio Danza]]: skjuler hendes flygtninge i Paest
 - [[Nasir Ibn Fahd]]: hans gruppe fører flygtningene over grænsen til Zara’bash
 - [[Saltkælderen]]: hvor hendes flygtninge skjules
+- [[Silkegalleriet]]: hun hører, hvilke senatorer der køber hvad

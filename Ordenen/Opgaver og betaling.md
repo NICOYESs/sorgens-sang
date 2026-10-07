@@ -80,4 +80,5 @@ Bestilte opgaver og tyveri kan være meget lukrative for en dygtig Stormkrage og
 > - [[Zainab bint Malik]]s handelshus i Cartheero er ordenens vigtigste sted til hvidvask. Hendes regnskaber skjuler penge, der flyttes for ordenen, og tyvekoster sælges videre som almindelige varer i hendes karavaner.
 > - [[Aurelio Danza]] sælger tyvegods på Paests sorte markeder, også til Kamirrs pirater. Det giver penge, men gør ordenen afhængig af en smugler.
 > - [[Baldrian Barldesh]] flytter ordenens penge over havet blandt Den Mørke Storms varer. Kompagniet er ikke en del af ordenen.
+> - Tyvegodset sælges på sorte markeder i alle ordenens områder: [[Sorte markeder]].
 > - Hvem der har fået hjælp uden at betale, og hvad de skylder, er et godt sted at hente tråde til spil.

@@ -30,6 +30,7 @@ Hans optagelse var omstridt. Han er en forbryder, der har tjent penge på mange 
 - [[Sennet]]: han skjuler hendes flygtninge i Paest
 - [[Cornelia Vasto]]: tharkiensk skipper, hans gamle handelsforbindelse
 - [[Saltkælderen]]: hans lager og ordenens rede i Paest
+- [[Natkajen]]: ordenens mand på kajen
 
 > [!sandhed]- Spillederviden
 > Aurelio smugler stadig for egen regning ved siden af ordenens arbejde, og en del af hans fortjeneste kommer fra Kamirrs pirater. Hans omvendelse er ægte nok, men hans gamle forbindelser har han ikke opgivet.

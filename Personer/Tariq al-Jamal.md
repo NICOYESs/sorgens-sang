@@ -39,3 +39,4 @@ Tariq regnes for en af de Stormkrager, der holder sig tættest til Nadims gamle 
 - [[Sulaiman Barakat]]: daddellunden er et fast stop på Sydtrækket
 - [[Karim Ibn Walid]]: bringer ham beskeder fra Cartheero
 - [[Bilqis]]: hans Calandra, *Sydsangen*, uden at han ved, hvem hun er
+- [[Sandmarkedet]]: hans gruppe sælger karavanebytte her

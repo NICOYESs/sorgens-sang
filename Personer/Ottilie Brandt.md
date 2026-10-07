@@ -31,3 +31,4 @@ Hun blev optaget i 31 EH. Kompagniet er ikke en del af ordenen, og Ottilie er or
 - [[Zainab bint Malik]]: hendes handelskontakt i Zara’bash
 - [[Dalila bint Yasir]]: hendes skibskaravaner registreres på kontoret
 - [[Henrike Voss]]: Rugere i Kaarn
+- [[Bjærgningsauktionerne]]: hun sørger for, at tallene passer

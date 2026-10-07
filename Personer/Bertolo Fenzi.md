@@ -28,3 +28,4 @@ Han blev hvervet i 34 EH, da ordenen etablerede sig i Dorenburg. Hans protokolle
 - [[Dalila bint Yasir]]: hans kontakt på skibskaravanerne
 - [[Aurelio Danza]]: varer, der skal forbi tolden, går gennem Paest
 - [[Leyla bint Qasim]]: deres protokoller sammenholdes via skibene, så slaver kan følges fra Cartheero til Dorenburg
+- [[Beslagsauktionen]]: han skriver tyvegods ind som beslaglagt

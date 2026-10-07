@@ -30,3 +30,4 @@ Hun har adgang til de kredse, som de fleste af ordenens medlemmer aldrig kan nå
 - [[Tariq al-Jamal]]: hendes karavaner giver ham dække
 - [[Ottilie Brandt]]: hendes kontakt i Kaarn
 - [[Dalila bint Yasir]]: fører hendes last over havet
+- [[Cisternemarkedet]]: store partier herfra vaskes gennem hendes handelshus
